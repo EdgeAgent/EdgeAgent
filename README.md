@@ -2,15 +2,38 @@
 
 # EdgeAgent
 
-### Building practical local AI systems for people who need control, portability, and real-world reliability.
+### Building practical AI systems for people who need control, portability, and real-world reliability.
 
-I build tools at the intersection of **local LLMs, autonomous workflows, human oversight, and portable software**.
+I build tools at the intersection of **local LLMs, autonomous workflows, human oversight, automation, and spatial computing**.
 
-[Explore ModelDock USB](https://github.com/EdgeAgent/modeldock-usb)
+[Explore the portfolio](#featured-work) · [View the project map](#portfolio-map) · [Visit Edge Agency](https://edgeagency.pro)
 
 </div>
 
 ---
+
+## Portfolio map
+
+The work is organized around one question: **how do we make powerful software understandable and useful to the person responsible for the outcome?**
+
+<div align="center">
+
+![Edge Agency portfolio map: local AI, spatial computing, automation, governance, and TraceForge](https://raw.githubusercontent.com/EdgeAgent/EdgeAgent/main/assets/edge-portfolio-map.svg)
+
+</div>
+
+## Featured work
+
+| Project | What it explores | Status |
+|---|---|---|
+| **[ModelDock USB](https://github.com/EdgeAgent/modeldock-usb)** | A local LLM command center for inspectable business workflows, approval gates, audit logs, recovery controls, and portable execution. | Core build |
+| **[TraceForge](https://github.com/EdgeAgent/traceforge)** | An auditable AI framework for Ontario industrial sectors, with structured inference, confidence thresholds, human review, and traceable decisions. | Private preview |
+| **[Visionary3D Studio](https://github.com/EdgeAgent/visionary3d-studio)** | A conversational AI-driven 3D asset and animation generation engine combining Langflow and Blender LLM workflows. | Active exploration |
+| **[SPLATwalk](https://github.com/EdgeAgent/SPLATwalk)** | A production-ready environment for exploring 3D Gaussian Splats through a focused dark-mode interface. | Active exploration |
+| **[Awesome Generative AI 1000](https://github.com/EdgeAgent/awesome-generative-ai-1000)** | A curated catalogue of 1,000 game-changing AI and software frameworks organized for the future of generative AI. | Open collection |
+| **[EDGE Agency Automation Portfolio](https://github.com/EdgeAgent/edge-automation-portfolio)** | A portfolio of 73+ n8n workflows covering lead generation, real estate, e-commerce, content, customer service, and integrations. | Open portfolio |
+| **[EDGE Agency AI Governance](https://github.com/EdgeAgent/EDGE-AGENCY-AI-Governance)** | Practical governance materials for building AI systems with clearer boundaries, review paths, and operational accountability. | Open framework |
+| **[MOE the CMO](https://github.com/EdgeAgent/moe-the-cmo)** | An AI chief marketing officer landing experience focused on practical marketing workflows. | Public demo |
 
 ## Featured project: ModelDock USB
 
@@ -44,23 +67,21 @@ pnpm dev
 
 → **[Read the ModelDock USB README](https://github.com/EdgeAgent/modeldock-usb#readme)**
 
----
-
 ## What I am focused on
 
 I am exploring how local models and agentic systems can become dependable operating tools rather than isolated demos. The work is centered on portable execution, transparent state, safety boundaries, and interfaces that make autonomy understandable to the person responsible for the outcome.
 
-## Principles
-
-- **Local when possible.** Keep sensitive workflows close to the operator and make cloud use explicit.
-- **Human at the boundary.** Automation can prepare and coordinate; people decide when consequences matter.
-- **Inspectable by default.** Every meaningful action should have a status, a reason, and an audit trail.
-- **Portable by design.** A useful tool should not depend on one machine, one vendor, or one fragile setup.
-- **Honest about readiness.** Real host validation, failure recovery, and security work matter more than a polished demo.
+| Principle | Meaning in practice |
+|---|---|
+| **Local when possible** | Keep sensitive workflows close to the operator and make cloud use explicit. |
+| **Human at the boundary** | Automation can prepare and coordinate; people decide when consequences matter. |
+| **Inspectable by default** | Every meaningful action should have a status, a reason, and an audit trail. |
+| **Portable by design** | A useful tool should not depend on one machine, one vendor, or one fragile setup. |
+| **Honest about readiness** | Host validation, failure recovery, and security work matter more than a polished demo. |
 
 ## Connect with the work
 
-The best place to start is the **[ModelDock USB repository](https://github.com/EdgeAgent/modeldock-usb)**. Issues and pull requests are welcome when they improve operator control, reproducibility, accessibility, security, or cross-platform reliability.
+The best place to start is **[ModelDock USB](https://github.com/EdgeAgent/modeldock-usb)**. For the newest industrial AI direction, explore **[TraceForge](https://github.com/EdgeAgent/traceforge)**. Issues and pull requests are welcome when they improve operator control, reproducibility, accessibility, security, or cross-platform reliability.
 
 <div align="center">
 
