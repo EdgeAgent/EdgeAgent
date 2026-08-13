@@ -18,6 +18,8 @@ I build tools at the intersection of **local LLMs, autonomous workflows, human o
 
 **ModelDock USB** is a local LLM command center for autonomous business workflows—with humans in control. It turns plain-language requests into inspectable workflows, routes work through specialist agents, pauses for approval when risk matters, and preserves an operational audit trail.
 
+![ModelDock USB architecture: local model runtime, workflow planner, human approval desk, live monitoring, audit trail, and emergency stop](https://raw.githubusercontent.com/EdgeAgent/modeldock-usb/main/docs/modeldock-architecture.png)
+
 | Built for | What it provides |
 |---|---|
 | **Local-first operators** | Offline execution, USB-local JSON persistence, loopback model health checks |
