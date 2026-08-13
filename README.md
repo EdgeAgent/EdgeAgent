@@ -1,57 +1,72 @@
 <div align="center">
 
-# 🚀 EdgeAgent | AI Developer & Automation Strategist
+# EdgeAgent
 
-### *Building the future of Autonomous Agentic Swarms and Enterprise CRM Automations.*
+### Building practical local AI systems for people who need control, portability, and real-world reliability.
 
-[![GitHub Followers](https://img.shields.io/github/followers/EdgeAgent?label=Follow&style=social)](https://github.com/EdgeAgent)
-[![Twitter Follow](https://img.shields.io/twitter/follow/EdgeAgency?style=social)](https://twitter.com/EdgeAgency)
-[![Website](https://img.shields.io/badge/Website-edgeagency.pro-blue?style=flat-square)](https://edgeagency.pro)
+I build tools at the intersection of **local LLMs, autonomous workflows, human oversight, and portable software**.
 
----
-
-### 🛠️ Expertise & Focus
-
-**AI Agent Architect** specializing in multi-agent orchestration, procedural generation, and high-velocity CRM integrations. I bridge the gap between cutting-edge LLMs and real-world business revenue.
-
----
-
-### 🌟 Featured AI Projects
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| [**ghl-pro-mcp**](https://github.com/EdgeAgent/ghl-pro-mcp) | Advanced GoHighLevel MCP Server with AI Lead Scoring & Bulk Outreach. | Python, MCP, GHL API |
-| [**visionary3d-studio**](https://github.com/EdgeAgent/visionary3d-studio) | Conversational AI-Driven 3D Asset & Animation Engine. | Langflow, Blender, Python |
-| [**openmanus-swarm**](https://github.com/EdgeAgent/openmanus-swarm) | Containerized Agent Swarm for high-scale R&D and content production. | TypeScript, Docker, OpenRouter |
-| [**awesome-generative-ai-1000**](https://github.com/EdgeAgent/awesome-generative-ai-1000) | Curated directory of 1,000+ AI frameworks and repositories. | Markdown, AI Curation |
-
----
-
-### 💻 Tech Stack
-
-**Languages & Frameworks**: Python, TypeScript, Node.js, React, Hono, FastAPI.
-**AI & Automation**: LangChain, Langflow, Model Context Protocol (MCP), n8n, OpenAI, Claude, Cursor.
-**Infrastructure**: Docker, AWS, Vercel, Supabase, Drizzle ORM.
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EdgeAgent&show_icons=true&theme=tokyonight&count_private=true" alt="EdgeAgent GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdgeAgent&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
-</p>
-
----
-
-### 📬 Let's Connect
-
-- 🌐 **Website**: [edgeagency.pro](https://edgeagency.pro)
-- 💼 **LinkedIn**: [EdgeAgency Profile](https://www.linkedin.com/company/edgeagency)
-- 📧 **Email**: [hello@edgeagency.pro](mailto:hello@edgeagency.pro)
+[Explore ModelDock USB](https://github.com/EdgeAgent/modeldock-usb)
 
 </div>
 
 ---
 
-*“The best way to predict the future is to automate it.”*
+## Featured project: ModelDock USB
+
+[![ModelDock USB](https://img.shields.io/badge/Featured-ModelDock%20USB-06b6d4?style=for-the-badge&logo=github)](https://github.com/EdgeAgent/modeldock-usb)
+
+**ModelDock USB** is a local LLM command center for autonomous business workflows—with humans in control. It turns plain-language requests into inspectable workflows, routes work through specialist agents, pauses for approval when risk matters, and preserves an operational audit trail.
+
+| Built for | What it provides |
+|---|---|
+| **Local-first operators** | Offline execution, USB-local JSON persistence, loopback model health checks |
+| **Cross-platform workflows** | Windows, macOS, and Linux launchers with USB-root-relative paths |
+| **Human oversight** | Approval gates, audit logs, pause/resume, retries, timeouts, and emergency stop |
+| **Model operators** | Platform-aware model discovery, read-only file scanning, and local setup validation |
+
+### Why it matters
+
+Most agent demos optimize for a successful answer. ModelDock optimizes for the operating loop around the answer: **start safely, inspect progress, review sensitive actions, recover from failure, and keep control**.
+
+### Start here
+
+```bash
+git clone https://github.com/EdgeAgent/modeldock-usb.git
+cd modeldock-usb
+pnpm install
+pnpm check
+pnpm test
+pnpm dev
+```
+
+→ **[Read the ModelDock USB README](https://github.com/EdgeAgent/modeldock-usb#readme)**
+
+---
+
+## What I am focused on
+
+I am exploring how local models and agentic systems can become dependable operating tools rather than isolated demos. The work is centered on portable execution, transparent state, safety boundaries, and interfaces that make autonomy understandable to the person responsible for the outcome.
+
+## Principles
+
+- **Local when possible.** Keep sensitive workflows close to the operator and make cloud use explicit.
+- **Human at the boundary.** Automation can prepare and coordinate; people decide when consequences matter.
+- **Inspectable by default.** Every meaningful action should have a status, a reason, and an audit trail.
+- **Portable by design.** A useful tool should not depend on one machine, one vendor, or one fragile setup.
+- **Honest about readiness.** Real host validation, failure recovery, and security work matter more than a polished demo.
+
+## Connect with the work
+
+The best place to start is the **[ModelDock USB repository](https://github.com/EdgeAgent/modeldock-usb)**. Issues and pull requests are welcome when they improve operator control, reproducibility, accessibility, security, or cross-platform reliability.
+
+<div align="center">
+
+**Local models. Human oversight. Portable operations.**
+
+</div>
+
+## References
+
+[1]: https://github.com/EdgeAgent/modeldock-usb "ModelDock USB repository"
+[2]: https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-github-profile/about-your-profile-readme "GitHub profile README documentation"
