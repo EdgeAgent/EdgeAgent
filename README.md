@@ -24,20 +24,25 @@ The work is organized around one question: **how do we make powerful software un
 
 ## Featured work
 
+These are the public repositories that best represent the current portfolio.
+
 | Project | What it explores | Status |
 |---|---|---|
-| **[ModelDock USB](https://github.com/EdgeAgent/modeldock-usb)** | A local LLM command center for inspectable business workflows, approval gates, audit logs, recovery controls, and portable execution. | Core build |
-| **[TraceForge](https://github.com/EdgeAgent/traceforge)** | An auditable AI framework for Ontario industrial sectors, with structured inference, confidence thresholds, human review, and traceable decisions. | Private preview |
 | **[Visionary3D Studio](https://github.com/EdgeAgent/visionary3d-studio)** | A conversational AI-driven 3D asset and animation generation engine combining Langflow and Blender LLM workflows. | Active exploration |
 | **[SPLATwalk](https://github.com/EdgeAgent/SPLATwalk)** | A production-ready environment for exploring 3D Gaussian Splats through a focused dark-mode interface. | Active exploration |
 | **[Awesome Generative AI 1000](https://github.com/EdgeAgent/awesome-generative-ai-1000)** | A curated catalogue of 1,000 game-changing AI and software frameworks organized for the future of generative AI. | Open collection |
 | **[EDGE Agency Automation Portfolio](https://github.com/EdgeAgent/edge-automation-portfolio)** | A portfolio of 73+ n8n workflows covering lead generation, real estate, e-commerce, content, customer service, and integrations. | Open portfolio |
 | **[EDGE Agency AI Governance](https://github.com/EdgeAgent/EDGE-AGENCY-AI-Governance)** | Practical governance materials for building AI systems with clearer boundaries, review paths, and operational accountability. | Open framework |
 | **[MOE the CMO](https://github.com/EdgeAgent/moe-the-cmo)** | An AI chief marketing officer landing experience focused on practical marketing workflows. | Public demo |
+| **[n8n Automations](https://github.com/EdgeAgent/n8n-automations)** | A public automation workspace for reusable workflow experiments and integrations. | Public workspace |
+
+## Private studio builds
+
+Some of the most active product work remains private while it is being validated. **[ModelDock USB](https://github.com/EdgeAgent/modeldock-usb)** is a local LLM command center for inspectable business workflows, approval gates, audit logs, recovery controls, and portable execution. **[TraceForge](https://github.com/EdgeAgent/traceforge)** is an auditable AI framework for Ontario industrial sectors, with structured inference, confidence thresholds, human review, and traceable decisions.
 
 ## Featured project: ModelDock USB
 
-[![ModelDock USB](https://img.shields.io/badge/Featured-ModelDock%20USB-06b6d4?style=for-the-badge&logo=github)](https://github.com/EdgeAgent/modeldock-usb)
+[![ModelDock USB](https://img.shields.io/badge/Studio%20build-ModelDock%20USB-06b6d4?style=for-the-badge&logo=github)](https://github.com/EdgeAgent/modeldock-usb)
 
 **ModelDock USB** is a local LLM command center for autonomous business workflows—with humans in control. It turns plain-language requests into inspectable workflows, routes work through specialist agents, pauses for approval when risk matters, and preserves an operational audit trail.
 
@@ -81,7 +86,7 @@ I am exploring how local models and agentic systems can become dependable operat
 
 ## Connect with the work
 
-The best place to start is **[ModelDock USB](https://github.com/EdgeAgent/modeldock-usb)**. For the newest industrial AI direction, explore **[TraceForge](https://github.com/EdgeAgent/traceforge)**. Issues and pull requests are welcome when they improve operator control, reproducibility, accessibility, security, or cross-platform reliability.
+Start with the public **[Visionary3D Studio](https://github.com/EdgeAgent/visionary3d-studio)**, explore the spatial work in **[SPLATwalk](https://github.com/EdgeAgent/SPLATwalk)**, or browse the automation catalogue in **[EDGE Agency Automation Portfolio](https://github.com/EdgeAgent/edge-automation-portfolio)**. Issues and pull requests are welcome when they improve operator control, reproducibility, accessibility, security, or cross-platform reliability.
 
 <div align="center">
 
