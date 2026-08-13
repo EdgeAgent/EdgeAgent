@@ -28,12 +28,9 @@ These are the public repositories that best represent the current portfolio.
 
 | Project | What it explores | Status |
 |---|---|---|
-| **[Visionary3D Studio](https://github.com/EdgeAgent/visionary3d-studio)** | A conversational AI-driven 3D asset and animation generation engine combining Langflow and Blender LLM workflows. | Active exploration |
-| **[SPLATwalk](https://github.com/EdgeAgent/SPLATwalk)** | A production-ready environment for exploring 3D Gaussian Splats through a focused dark-mode interface. | Active exploration |
 | **[Awesome Generative AI 1000](https://github.com/EdgeAgent/awesome-generative-ai-1000)** | A curated catalogue of 1,000 game-changing AI and software frameworks organized for the future of generative AI. | Open collection |
 | **[EDGE Agency Automation Portfolio](https://github.com/EdgeAgent/edge-automation-portfolio)** | A portfolio of 73+ n8n workflows covering lead generation, real estate, e-commerce, content, customer service, and integrations. | Open portfolio |
 | **[EDGE Agency AI Governance](https://github.com/EdgeAgent/EDGE-AGENCY-AI-Governance)** | Practical governance materials for building AI systems with clearer boundaries, review paths, and operational accountability. | Open framework |
-| **[MOE the CMO](https://github.com/EdgeAgent/moe-the-cmo)** | An AI chief marketing officer landing experience focused on practical marketing workflows. | Public demo |
 | **[n8n Automations](https://github.com/EdgeAgent/n8n-automations)** | A public automation workspace for reusable workflow experiments and integrations. | Public workspace |
 
 ## Private studio builds
