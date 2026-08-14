@@ -32,7 +32,7 @@ These are the public repositories that best represent the current portfolio.
 | **[EDGE Agency Automation Portfolio](https://github.com/EdgeAgent/edge-automation-portfolio)** | A portfolio of 73+ n8n workflows covering lead generation, real estate, e-commerce, content, customer service, and integrations. | Open portfolio |
 | **[EDGE Agency AI Governance](https://github.com/EdgeAgent/EDGE-AGENCY-AI-Governance)** | Practical governance materials for building AI systems with clearer boundaries, review paths, and operational accountability. | Open framework |
 | **[n8n Automations](https://github.com/EdgeAgent/n8n-automations)** | A public automation workspace for reusable workflow experiments and integrations. | Public workspace |
-| **[RELAY — Agent Swarm Protocol](https://github.com/EdgeAgent/n8n-automations)** | A compact, versioned message dialect for fast, safe communication between specialist agents inside n8n. | Framework concept |
+| **[RELAY — Agent Swarm Protocol](https://github.com/EdgeAgent/relay-protocol)** | A compact, versioned message dialect for fast, safe communication between specialist agents inside n8n. | Design-ready framework |
 
 ## Private studio builds
 
@@ -72,7 +72,7 @@ pnpm dev
 
 ## Featured framework: RELAY
 
-[![RELAY](https://img.shields.io/badge/Framework-RELAY-22d3ee?style=for-the-badge&logo=n8n&logoColor=white)](https://github.com/EdgeAgent/n8n-automations)
+[![RELAY](https://img.shields.io/badge/Framework-RELAY-22d3ee?style=for-the-badge&logo=n8n&logoColor=white)](https://github.com/EdgeAgent/relay-protocol)
 
 **RELAY** is a compact communication layer for an internal agent swarm. It is designed for the place where broad interoperability standards are not the bottleneck: one operator’s own n8n workflows, where messages need to be fast, inexpensive, versioned, and easy to audit.
 
