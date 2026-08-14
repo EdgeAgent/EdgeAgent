@@ -24,7 +24,7 @@ The work is organized around one question: **how do we make powerful software un
 
 ## Featured work
 
-These are the public repositories that best represent the current portfolio.
+These repositories and studio frameworks best represent the current portfolio.
 
 | Project | What it explores | Status |
 |---|---|---|
@@ -33,6 +33,7 @@ These are the public repositories that best represent the current portfolio.
 | **[EDGE Agency AI Governance](https://github.com/EdgeAgent/EDGE-AGENCY-AI-Governance)** | Practical governance materials for building AI systems with clearer boundaries, review paths, and operational accountability. | Open framework |
 | **[n8n Automations](https://github.com/EdgeAgent/n8n-automations)** | A public automation workspace for reusable workflow experiments and integrations. | Public workspace |
 | **[RELAY — Agent Swarm Protocol](https://github.com/EdgeAgent/relay-protocol)** | A compact, versioned message dialect for fast, safe communication between specialist agents inside n8n. | Design-ready framework |
+| **[DSER Agent Framework](https://github.com/EdgeAgent/dser-agent-framework)** | A provenance-aware agent framework that reconciles current evidence, retrieved memory, and trusted verification before action. | Private framework |
 
 ## Private studio builds
 
