@@ -1,0 +1,18 @@
+%%{init: {'theme':'base', 'themeVariables': {'background':'#0b1220', 'primaryColor':'#101c2c', 'primaryTextColor':'#e5f7ff', 'primaryBorderColor':'#22d3ee', 'lineColor':'#64748b', 'secondaryColor':'#182334', 'tertiaryColor':'#241d18'}}}%%
+flowchart LR
+    SC[SC<br/>SCOUT] -->|REQ<br/>SC to CP / thread 482 / lead 4471 / score 82| CP[CP<br/>COLDPEN]
+    CP -->|ACK / INF| SC
+    CP -->|REQ| SH[SH<br/>SHEPHERD]
+    SH -->|INF| LG[LG<br/>LEDGER]
+    LG -->|INF| HR[HR<br/>HERALD]
+    HR -->|Readable audit log| OPS[Operator<br/>Dashboard]
+    QL[QL<br/>QUALIFIER] -->|REQ / INF| CP
+    CP -->|ESC on unknown code| HUMAN[Human review]
+
+    classDef agent fill:#101c2c,stroke:#22d3ee,color:#e5f7ff,stroke-width:2px;
+    classDef ops fill:#182334,stroke:#a78bfa,color:#f4f0ff,stroke-width:2px;
+    classDef human fill:#241d18,stroke:#f59e0b,color:#fff7ed,stroke-width:2px;
+    class SC,QL,CP,SH,LG,HR agent;
+    class OPS ops;
+    class HUMAN human;
+    linkStyle default stroke:#64748b,stroke-width:1.5px;

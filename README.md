@@ -32,6 +32,7 @@ These are the public repositories that best represent the current portfolio.
 | **[EDGE Agency Automation Portfolio](https://github.com/EdgeAgent/edge-automation-portfolio)** | A portfolio of 73+ n8n workflows covering lead generation, real estate, e-commerce, content, customer service, and integrations. | Open portfolio |
 | **[EDGE Agency AI Governance](https://github.com/EdgeAgent/EDGE-AGENCY-AI-Governance)** | Practical governance materials for building AI systems with clearer boundaries, review paths, and operational accountability. | Open framework |
 | **[n8n Automations](https://github.com/EdgeAgent/n8n-automations)** | A public automation workspace for reusable workflow experiments and integrations. | Public workspace |
+| **[RELAY — Agent Swarm Protocol](https://github.com/EdgeAgent/n8n-automations)** | A compact, versioned message dialect for fast, safe communication between specialist agents inside n8n. | Framework concept |
 
 ## Private studio builds
 
@@ -68,6 +69,36 @@ pnpm dev
 ```
 
 → **[Read the ModelDock USB README](https://github.com/EdgeAgent/modeldock-usb#readme)**
+
+## Featured framework: RELAY
+
+[![RELAY](https://img.shields.io/badge/Framework-RELAY-22d3ee?style=for-the-badge&logo=n8n&logoColor=white)](https://github.com/EdgeAgent/n8n-automations)
+
+**RELAY** is a compact communication layer for an internal agent swarm. It is designed for the place where broad interoperability standards are not the bottleneck: one operator’s own n8n workflows, where messages need to be fast, inexpensive, versioned, and easy to audit.
+
+The protocol uses a fixed positional envelope—`v|FROM|TO|INTENT|REF|PAYLOAD`—with a shared codebook for agent roles, intents, stages, and task types. Instead of repeating verbose JSON keys, agents exchange compact payloads such as `L:4471,S:82,ACT:CALL`. **HERALD** translates the wire format into readable logs and dashboards, while unknown codes fail safely through `ESC` and human review.
+
+![RELAY agent swarm protocol architecture: SCOUT, QUALIFIER, COLDPEN, SHEPHERD, LEDGER, HERALD, operator dashboard, and safe human escalation](https://raw.githubusercontent.com/EdgeAgent/EdgeAgent/main/assets/relay-architecture.png)
+
+| Protocol principle | What it provides |
+|---|---|
+| **Fixed envelope** | Predictable parsing with minimal repeated tokens across every message. |
+| **Live codebook** | Versioned n8n Data Table shared by every agent and workflow. |
+| **Compact payloads** | Short key-value pairs and enums for lead, task, and workflow state. |
+| **Human translation** | HERALD turns compact messages into readable operational records. |
+| **Safe fallback** | Unsupported versions or intents emit `ESC` rather than guessing. |
+
+### Example message
+
+```text
+1|SC|CP|REQ|482|L:4471,S:82,ACT:CALL
+```
+
+→ **SCOUT** requests **COLDPEN** to act on lead `4471`, scored at `82%`, with a follow-up call as the next action.
+
+### Why it matters
+
+RELAY does not try to replace cross-vendor standards such as A2A. It occupies a narrower, practical layer: a cheap and predictable internal dialect for a known swarm, with a translation and escalation boundary that keeps the system understandable to its operator.
 
 ## What I am focused on
 
