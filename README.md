@@ -38,7 +38,7 @@ These repositories and studio frameworks best represent the current portfolio.
 | **[DSER Agent Framework](https://github.com/EdgeAgent/dser-agent-framework)** | A provenance-aware agent framework that reconciles current evidence, retrieved memory, and trusted verification before action. | Public framework |},{find:
 | **[Multi-Agent Orchestration](https://github.com/EdgeAgent/multi-agent-orchestration)** | Next-generation architecture specification, protocol stacks (MCP/ACP/A2A), and production blueprints for deterministic agent networks. | Production blueprint |
 | **[Foundation Agent Architecture](https://github.com/EdgeAgent/foundation-agent-architecture)** | Engineering implementation of brain-inspired modular AI agents based on 2025 research from Stanford, DeepMind, and Yale. | Research blueprint |
-| **[Real Estate AI Agent Framework](https://github.com/EdgeAgent/real-estate-agent-framework)** | Multi-agent orchestration for autonomous commercial due diligence, property analysis, and institutional risk modeling. | Industry blueprint |
+| **[Real Estate AI Agent Framework](https://github.com/EdgeAgent/real-estate-agent-framework)** | Multi-agent orchestration for autonomous commercial due diligence, strategic equity modeling, and institutional risk analysis. | Industry blueprint |
 | **[Edge Capital Crypto TradeBot](https://github.com/EdgeAgent/_EDGE-CAPITAL-CRYPTO_tradeBOT-8648)** | Institutional-grade algorithmic trading engine for high-frequency execution and advanced risk management. | Trading engine |
 | **[TradeOS](https://github.com/EdgeAgent/TradeOS)** | Autonomous trading and asset allocation operating system powered by multi-agent risk models. | Public platform |
 | **[EliteLeads](https://github.com/EdgeAgent/EliteLeads)** | AI-driven lead generation, multi-channel enrichment, and smart qualification engine. | Public portfolio |
@@ -121,7 +121,9 @@ Unstructured agent groups suffer from 15x token inflation and 100% cascade failu
 
 ### Why it matters
 
-Institutional real estate acquisition requires absolute precision across multiple domains. RE-AAF provides the modular framework to scale due diligence with institutional rigor and 95% efficiency gains.
+Institutional real estate acquisition requires absolute precision across multiple domains. RE-AAF provides the modular framework to scale due diligence with institutional rigor, 95% efficiency gains, and autonomous equity growth modeling.
+
+![RE-AAF Equity Modeling: Rent vs Ownership](https://raw.githubusercontent.com/EdgeAgent/real-estate-agent-framework/master/assets/equity_vs_rent.png)
 
 → **[Read the Real Estate AI Agent Framework Blueprint](https://github.com/EdgeAgent/real-estate-agent-framework#readme)**
 
