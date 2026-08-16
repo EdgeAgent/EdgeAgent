@@ -38,6 +38,7 @@ These repositories and studio frameworks best represent the current portfolio.
 | **[DSER Agent Framework](https://github.com/EdgeAgent/dser-agent-framework)** | A provenance-aware agent framework that reconciles current evidence, retrieved memory, and trusted verification before action. | Public framework |},{find:
 | **[Multi-Agent Orchestration](https://github.com/EdgeAgent/multi-agent-orchestration)** | Next-generation architecture specification, protocol stacks (MCP/ACP/A2A), and production blueprints for deterministic agent networks. | Production blueprint |
 | **[Foundation Agent Architecture](https://github.com/EdgeAgent/foundation-agent-architecture)** | Engineering implementation of brain-inspired modular AI agents based on 2025 research from Stanford, DeepMind, and Yale. | Research blueprint |
+| **[Real Estate AI Agent Framework](https://github.com/EdgeAgent/real-estate-agent-framework)** | Multi-agent orchestration for autonomous commercial due diligence, property analysis, and institutional risk modeling. | Industry blueprint |
 | **[Edge Capital Crypto TradeBot](https://github.com/EdgeAgent/_EDGE-CAPITAL-CRYPTO_tradeBOT-8648)** | Institutional-grade algorithmic trading engine for high-frequency execution and advanced risk management. | Trading engine |
 | **[TradeOS](https://github.com/EdgeAgent/TradeOS)** | Autonomous trading and asset allocation operating system powered by multi-agent risk models. | Public platform |
 | **[EliteLeads](https://github.com/EdgeAgent/EliteLeads)** | AI-driven lead generation, multi-channel enrichment, and smart qualification engine. | Public portfolio |
@@ -101,6 +102,27 @@ pnpm dev
 Unstructured agent groups suffer from 15x token inflation and 100% cascade failure rates. This specification provides the engineering guardrails required to deploy autonomous agents that are fast, predictable, and safe.
 
 → **[Read the Multi-Agent Orchestration Specification](https://github.com/EdgeAgent/multi-agent-orchestration#readme)**
+
+## Featured industry solution: Real Estate AI Agent Framework (RE-AAF)
+
+[![Real Estate AI Agent Framework](https://img.shields.io/badge/Industry-Real--Estate--AI--Framework-10b981?style=for-the-badge&logo=github)](https://github.com/EdgeAgent/real-estate-agent-framework)
+
+**Real Estate AI Agent Framework (RE-AAF)** is a production-grade multi-agent architecture that automates the 9 pillars of commercial due diligence. It transforms static manual checklists into an autonomous, verifiable analysis loop that moves from weeks of research to hours of execution.
+
+![RE-AAF Efficiency: AI vs Manual Real Estate Due Diligence](https://raw.githubusercontent.com/EdgeAgent/real-estate-agent-framework/master/assets/efficiency_benchmark.png)
+
+| Operational Pillar | AI Agent Implementation |
+|---|---|
+| **Financial Audit** | Autonomous DSCR calculation, cash flow projection, and stress testing. |
+| **Geospatial Intelligence** | Multi-channel analysis of foot traffic, competitor density, and infrastructure. |
+| **Compliance & Physicals** | Automated zoning law review, ADA compliance scanning, and maintenance auditing. |
+| **Deal Optimization** | Risk-adjusted bid generation based on historical sales and property history. |
+
+### Why it matters
+
+Institutional real estate acquisition requires absolute precision across multiple domains. RE-AAF provides the modular framework to scale due diligence with institutional rigor and 95% efficiency gains.
+
+→ **[Read the Real Estate AI Agent Framework Blueprint](https://github.com/EdgeAgent/real-estate-agent-framework#readme)**
 
 ## Featured research: Foundation Agent Architecture (FAA)
 
