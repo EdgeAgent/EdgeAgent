@@ -33,13 +33,13 @@ These repositories and studio frameworks best represent the current portfolio.
 | **[EDGE Agency AI Governance](https://github.com/EdgeAgent/EDGE-AGENCY-AI-Governance)** | Practical governance materials for building AI systems with clearer boundaries, review paths, and operational accountability. | Open framework |
 | **[n8n Automations](https://github.com/EdgeAgent/n8n-automations)** | A public automation workspace for reusable workflow experiments and integrations. | Public workspace |
 | **[RELAY — Agent Swarm Protocol](https://github.com/EdgeAgent/relay-protocol)** | A compact, versioned message dialect for fast, safe communication between specialist agents inside n8n. | Design-ready framework |
-| **[DSER Agent Framework](https://github.com/EdgeAgent/dser-agent-framework)** | A provenance-aware agent framework that reconciles current evidence, retrieved memory, and trusted verification before action. | Private framework |
+| **[DSER Agent Framework](https://github.com/EdgeAgent/dser-agent-framework)** | A provenance-aware agent framework that reconciles current evidence, retrieved memory, and trusted verification before action. | Public framework |},{find:
 | **[Multi-Agent Orchestration](https://github.com/EdgeAgent/multi-agent-orchestration)** | Next-generation architecture specification, protocol stacks (MCP/ACP/A2A), and production blueprints for deterministic agent networks. | Production blueprint |
 | **[Foundation Agent Architecture](https://github.com/EdgeAgent/foundation-agent-architecture)** | Engineering implementation of brain-inspired modular AI agents based on 2025 research from Stanford, DeepMind, and Yale. | Research blueprint |
 
-## Private studio builds
+## Featured studio builds
 
-Some of the most active product work remains private while it is being validated. **[ModelDock USB](https://github.com/EdgeAgent/modeldock-usb)** is a local LLM command center for inspectable business workflows, approval gates, audit logs, recovery controls, and portable execution. **[TraceForge](https://github.com/EdgeAgent/traceforge)** is an auditable AI framework for Ontario industrial sectors, with structured inference, confidence thresholds, human review, and traceable decisions.
+All studio builds and frameworks are fully open-source and live. **[ModelDock USB](https://github.com/EdgeAgent/modeldock-usb)** is a local LLM command center for inspectable business workflows, approval gates, audit logs, recovery controls, and portable execution. **[TraceForge](https://github.com/EdgeAgent/traceforge)** is an auditable AI framework for Ontario industrial sectors, with structured inference, confidence thresholds, human review, and traceable decisions.
 
 ## Featured project: ModelDock USB
 
