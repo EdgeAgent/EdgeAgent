@@ -38,10 +38,11 @@ These repositories and studio frameworks best represent the current portfolio.
 | **[DSER Agent Framework](https://github.com/EdgeAgent/dser-agent-framework)** | A provenance-aware agent framework that reconciles current evidence, retrieved memory, and trusted verification before action. | Public framework |},{find:
 | **[Multi-Agent Orchestration](https://github.com/EdgeAgent/multi-agent-orchestration)** | Next-generation architecture specification, protocol stacks (MCP/ACP/A2A), and production blueprints for deterministic agent networks. | Production blueprint |
 | **[Foundation Agent Architecture](https://github.com/EdgeAgent/foundation-agent-architecture)** | Engineering implementation of brain-inspired modular AI agents based on 2025 research from Stanford, DeepMind, and Yale. | Research blueprint |
+| **[Edge Capital Crypto TradeBot](https://github.com/EdgeAgent/_EDGE-CAPITAL-CRYPTO_tradeBOT-8648)** | Institutional-grade algorithmic trading engine for high-frequency execution and advanced risk management. | Trading engine |
 | **[TradeOS](https://github.com/EdgeAgent/TradeOS)** | Autonomous trading and asset allocation operating system powered by multi-agent risk models. | Public platform |
+| **[EliteLeads](https://github.com/EdgeAgent/EliteLeads)** | AI-driven lead generation, multi-channel enrichment, and smart qualification engine. | Public portfolio |
 | **[Nexus Prime](https://github.com/EdgeAgent/nexus-prime)** | Enterprise-grade node automation platform with visual workflow builders and secure execution. | Public framework |
 | **[AI Voice Calling Agent](https://github.com/EdgeAgent/ai-voice-calling-agent-)** | Real-time conversational voice agent for customer service and high-consequence calling. | Public application |
-| **[EliteLeads](https://github.com/EdgeAgent/EliteLeads)** | AI-driven lead generation, multi-channel enrichment, and smart qualification engine. | Public portfolio |
 | **[CallScheduler](https://github.com/EdgeAgent/CallScheduler)** | Intelligent scheduling, automated calendar routing, and CRM synchronization agent. | Public utility |
 
 ## Featured studio builds
