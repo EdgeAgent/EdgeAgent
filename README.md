@@ -108,7 +108,7 @@ Unstructured agent groups suffer from 15x token inflation and 100% cascade failu
 
 [![Real Estate AI Agent Framework](https://img.shields.io/badge/Industry-Real--Estate--AI--Framework-10b981?style=for-the-badge&logo=github)](https://github.com/EdgeAgent/real-estate-agent-framework)
 
-**Real Estate AI Agent Framework (RE-AAF)** is a production-grade multi-agent architecture that automates the 9 pillars of commercial due diligence. It transforms static manual checklists into an autonomous, verifiable analysis loop that moves from weeks of research to hours of execution.
+**Real Estate AI Agent Framework (RE-AAF)** is an institutional-grade multi-agent architecture that automates the 9 pillars of commercial due diligence. It transforms traditional, fragmented acquisition workflows into an autonomous, verifiable analysis loop that moves from weeks of manual research to hours of execution.
 
 ![RE-AAF Efficiency: AI vs Manual Real Estate Due Diligence](https://raw.githubusercontent.com/EdgeAgent/real-estate-agent-framework/master/assets/efficiency_benchmark.png)
 
