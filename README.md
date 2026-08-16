@@ -34,6 +34,7 @@ These repositories and studio frameworks best represent the current portfolio.
 | **[n8n Automations](https://github.com/EdgeAgent/n8n-automations)** | A public automation workspace for reusable workflow experiments and integrations. | Public workspace |
 | **[RELAY — Agent Swarm Protocol](https://github.com/EdgeAgent/relay-protocol)** | A compact, versioned message dialect for fast, safe communication between specialist agents inside n8n. | Design-ready framework |
 | **[DSER Agent Framework](https://github.com/EdgeAgent/dser-agent-framework)** | A provenance-aware agent framework that reconciles current evidence, retrieved memory, and trusted verification before action. | Private framework |
+| **[Multi-Agent Orchestration](https://github.com/EdgeAgent/multi-agent-orchestration)** | Next-generation architecture specification, protocol stacks (MCP/ACP/A2A), and production blueprints for deterministic agent networks. | Production blueprint |
 
 ## Private studio builds
 
@@ -70,6 +71,27 @@ pnpm dev
 ```
 
 → **[Read the ModelDock USB README](https://github.com/EdgeAgent/modeldock-usb#readme)**
+
+## Featured specification: Multi-Agent Orchestration
+
+[![Multi-Agent Orchestration](https://img.shields.io/badge/Specification-Multi--Agent--Orchestration-10b981?style=for-the-badge&logo=github)](https://github.com/EdgeAgent/multi-agent-orchestration)
+
+**Multi-Agent Orchestration** is a technical blueprint for moving beyond chaotic LLM chat rooms into structured, protocol-driven software architectures. It codifies the transition from unconstrained peer topologies to deterministic, fault-tolerant agent networks using asymmetric model routing and standardized protocol stacks.
+
+![Multi-Agent Orchestration architecture: Hierarchical Supervisor, Fan-Out/In, Bounded Swarms, and Work-as-Git local workspaces](https://raw.githubusercontent.com/EdgeAgent/multi-agent-orchestration/master/docs/token_inflation_chart.png)
+
+| Architecture Pillar | What it provides |
+|---|---|
+| **Standardized Protocols** | Implementation of MCP, ACP, A2A, and ANP for seamless, cross-vendor agent communication. |
+| **Work-as-Git Workspaces** | Local-first, file-backed state management using `~/.openalice` for absolute auditability. |
+| **Deterministic Control** | Six production topologies (Supervisor, Debate, Pipeline) with explicit human approval gates. |
+| **Quantitative Risk** | Pre-dispatch token cost estimation and rigorous position-sizing risk models for trading. |
+
+### Why it matters
+
+Unstructured agent groups suffer from 15x token inflation and 100% cascade failure rates. This specification provides the engineering guardrails required to deploy autonomous agents that are fast, predictable, and safe.
+
+→ **[Read the Multi-Agent Orchestration Specification](https://github.com/EdgeAgent/multi-agent-orchestration#readme)**
 
 ## Featured framework: RELAY
 
