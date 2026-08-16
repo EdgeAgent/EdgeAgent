@@ -35,6 +35,7 @@ These repositories and studio frameworks best represent the current portfolio.
 | **[RELAY — Agent Swarm Protocol](https://github.com/EdgeAgent/relay-protocol)** | A compact, versioned message dialect for fast, safe communication between specialist agents inside n8n. | Design-ready framework |
 | **[DSER Agent Framework](https://github.com/EdgeAgent/dser-agent-framework)** | A provenance-aware agent framework that reconciles current evidence, retrieved memory, and trusted verification before action. | Private framework |
 | **[Multi-Agent Orchestration](https://github.com/EdgeAgent/multi-agent-orchestration)** | Next-generation architecture specification, protocol stacks (MCP/ACP/A2A), and production blueprints for deterministic agent networks. | Production blueprint |
+| **[Foundation Agent Architecture](https://github.com/EdgeAgent/foundation-agent-architecture)** | Engineering implementation of brain-inspired modular AI agents based on 2025 research from Stanford, DeepMind, and Yale. | Research blueprint |
 
 ## Private studio builds
 
@@ -92,6 +93,27 @@ pnpm dev
 Unstructured agent groups suffer from 15x token inflation and 100% cascade failure rates. This specification provides the engineering guardrails required to deploy autonomous agents that are fast, predictable, and safe.
 
 → **[Read the Multi-Agent Orchestration Specification](https://github.com/EdgeAgent/multi-agent-orchestration#readme)**
+
+## Featured research: Foundation Agent Architecture (FAA)
+
+[![Foundation Agent Architecture](https://img.shields.io/badge/Research-Foundation--Agent--Architecture-3b82f6?style=for-the-badge&logo=github)](https://github.com/EdgeAgent/foundation-agent-architecture)
+
+**Foundation Agent Architecture (FAA)** translates the landmark 264-page survey by researchers from **Stanford, Yale, and Google DeepMind** into a practical engineering blueprint. It moves beyond isolated LLMs toward modular, brain-inspired systems that map cognitive, perceptual, and action modules to biological neural regions.
+
+![FAA Memory Lifecycle: Importance-weighted memory retention and temporal decay](https://raw.githubusercontent.com/EdgeAgent/foundation-agent-architecture/master/assets/memory_decay_lifecycle.png)
+
+| Cognitive Pillar | Engineering Implementation |
+|---|---|
+| **Modular Brain Mapping** | Planning (Prefrontal Cortex), Perception (Sensory Cortices), and Action (Motor Cortex). |
+| **Memory Lifecycle** | Hippocampus-inspired importance-weighted storage and Ebbinghaus-style temporal decay. |
+| **ORPA Execution Loop** | Continuous cycle of Observation, Reflection, Planning, and Action for proactive deliberation. |
+| **Bounded Autonomy** | Hard-coded Deontic Principles (Rules of Engagement) for ethical and safe agent execution. |
+
+### Why it matters
+
+Chatbots optimize for answers; Foundation Agents optimize for the operating loop. This architecture provides the theoretical and practical foundation for building agents that learn, adapt, and operate safely at scale.
+
+→ **[Read the Foundation Agent Architecture Blueprint](https://github.com/EdgeAgent/foundation-agent-architecture#readme)**
 
 ## Featured framework: RELAY
 
