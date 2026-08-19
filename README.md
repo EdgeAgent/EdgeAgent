@@ -26,26 +26,16 @@ The work is organized around one question: **how do we make powerful software un
 
 ## Featured work
 
-These repositories and studio frameworks best represent the current portfolio.
+These six projects are the clearest, strongest expression of the portfolio: local-first execution, auditable AI, safe agent communication, spatial computing, and the current QuantumSignal research platform.
 
-| Project | What it explores | Status |
+| Project | What it demonstrates | Status |
 |---|---|---|
-| **[Awesome Generative AI 1000](https://github.com/EdgeAgent/awesome-generative-ai-1000)** | A curated catalogue of 1,000 game-changing AI and software frameworks organized for the future of generative AI. | Open collection |
-| **[EDGE Agency Automation Portfolio](https://github.com/EdgeAgent/edge-automation-portfolio)** | A portfolio of 73+ n8n workflows covering lead generation, real estate, e-commerce, content, customer service, and integrations. | Open portfolio |
-| **[EDGE Agency AI Governance](https://github.com/EdgeAgent/EDGE-AGENCY-AI-Governance)** | Practical governance materials for building AI systems with clearer boundaries, review paths, and operational accountability. | Open framework |
-| **[n8n Automations](https://github.com/EdgeAgent/n8n-automations)** | A public automation workspace for reusable workflow experiments and integrations. | Public workspace |
-| **[RELAY — Agent Swarm Protocol](https://github.com/EdgeAgent/relay-protocol)** | A compact, versioned message dialect for fast, safe communication between specialist agents inside n8n. | Design-ready framework |
-| **[DSER Agent Framework](https://github.com/EdgeAgent/dser-agent-framework)** | A provenance-aware agent framework that reconciles current evidence, retrieved memory, and trusted verification before action. | Public framework |},{find:
-| **[Multi-Agent Orchestration](https://github.com/EdgeAgent/multi-agent-orchestration)** | Next-generation architecture specification, protocol stacks (MCP/ACP/A2A), and production blueprints for deterministic agent networks. | Production blueprint |
-| **[Foundation Agent Architecture](https://github.com/EdgeAgent/foundation-agent-architecture)** | Engineering implementation of brain-inspired modular AI agents based on 2025 research from Stanford, DeepMind, and Yale. | Research blueprint |
-| **[Real Estate AI Agent Framework](https://github.com/EdgeAgent/real-estate-agent-framework)** | Multi-agent orchestration for autonomous commercial due diligence, strategic equity modeling, and institutional risk analysis. | Industry blueprint |
-| **[Edge Capital Crypto TradeBot](https://github.com/EdgeAgent/_EDGE-CAPITAL-CRYPTO_tradeBOT-8648)** | Institutional-grade algorithmic trading engine for high-frequency execution and advanced risk management. | Trading engine |
-| **[TradeOS](https://github.com/EdgeAgent/TradeOS)** | Autonomous trading and asset allocation operating system powered by multi-agent risk models. | Public platform |
-| **[EliteLeads](https://github.com/EdgeAgent/EliteLeads)** | AI-driven lead generation, multi-channel enrichment, and smart qualification engine. | Public portfolio |
-| **[EDGE | AGENCY Skills](https://github.com/EdgeAgent/edge-agency-skills)** | The definitive library of 5,490+ verified agentic skills for extending AI capabilities across every domain. | Public library |
-| **[Nexus Prime](https://github.com/EdgeAgent/nexus-prime)** | Enterprise-grade node automation platform with visual workflow builders and secure execution. | Public framework |
-| **[AI Voice Calling Agent](https://github.com/EdgeAgent/ai-voice-calling-agent-)** | Real-time conversational voice agent for customer service and high-consequence calling. | Public application |
-| **[CallScheduler](https://github.com/EdgeAgent/CallScheduler)** | Intelligent scheduling, automated calendar routing, and CRM synchronization agent. | Public utility |
+| **[QuantumSignal Engine Showcase](https://github.com/EdgeAgent/quantum-signal-engine-pages)** | Public front page for the local-first crypto intelligence and paper-trading research engine. | Live showcase |
+| **[ModelDock USB](https://github.com/EdgeAgent/modeldock-usb)** | Local LLM command center with approval gates, audit trails, recovery controls, and portable execution. | Studio build |
+| **[TraceForge](https://github.com/EdgeAgent/traceforge)** | Auditable AI framework with structured inference, confidence thresholds, human review, and traceable decisions. | Public framework |
+| **[DSER Agent Framework](https://github.com/EdgeAgent/dser-agent-framework)** | Evidence reconciliation for provenance-aware agent memory and action. | Public framework |
+| **[RELAY — Agent Swarm Protocol](https://github.com/EdgeAgent/relay-protocol)** | Compact, versioned messaging for safe communication between specialist agents. | Protocol design |
+| **[Visionary3D Studio](https://github.com/EdgeAgent/visionary3d-studio)** | Conversational AI-driven 3D asset and animation generation workflows. | Spatial studio |
 
 ## Featured studio builds
 
@@ -192,7 +182,7 @@ I am exploring how local models and agentic systems can become dependable operat
 
 ## Connect with the work
 
-Start with the public **[Visionary3D Studio](https://github.com/EdgeAgent/visionary3d-studio)**, explore the spatial work in **[SPLATwalk](https://github.com/EdgeAgent/SPLATwalk)**, or browse the automation catalogue in **[EDGE Agency Automation Portfolio](https://github.com/EdgeAgent/edge-automation-portfolio)**. Issues and pull requests are welcome when they improve operator control, reproducibility, accessibility, security, or cross-platform reliability.
+Start with the public **[QuantumSignal Engine Showcase](https://github.com/EdgeAgent/quantum-signal-engine-pages)**, explore the spatial work in **[Visionary3D Studio](https://github.com/EdgeAgent/visionary3d-studio)**, or read the safety architecture in **[TraceForge](https://github.com/EdgeAgent/traceforge)**. Issues and pull requests are welcome when they improve operator control, reproducibility, accessibility, security, or cross-platform reliability.
 
 <div align="center">
 
