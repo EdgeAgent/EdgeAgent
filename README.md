@@ -26,7 +26,7 @@ The work is organized around one question: **how do we make powerful software un
 
 ## Featured work
 
-These six projects are the clearest, strongest expression of the portfolio: local-first execution, auditable AI, safe agent communication, spatial computing, and the current QuantumSignal research platform.
+These seven projects are the clearest, strongest expression of the portfolio: local-first execution, auditable AI, safe agent communication, spatial computing, creator workflows, and the current QuantumSignal research platform.
 
 | Project | What it demonstrates | Status |
 |---|---|---|
@@ -36,6 +36,7 @@ These six projects are the clearest, strongest expression of the portfolio: loca
 | **[DSER Agent Framework](https://github.com/EdgeAgent/dser-agent-framework)** | Evidence reconciliation for provenance-aware agent memory and action. | Public framework |
 | **[RELAY — Agent Swarm Protocol](https://github.com/EdgeAgent/relay-protocol)** | Compact, versioned messaging for safe communication between specialist agents. | Protocol design |
 | **[Visionary3D Studio](https://github.com/EdgeAgent/visionary3d-studio)** | Conversational AI-driven 3D asset and animation generation workflows. | Spatial studio |
+| **[Creative Research Studio](https://github.com/EdgeAgent/creative-research-studio)** | Research-to-content operating system for source-grounded briefs, creative direction, images, interfaces, motion, and human-sounding copy. | Creator workflow |
 
 ## Featured studio builds
 
