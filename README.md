@@ -1,197 +1,60 @@
 <div align="center">
+  <img src="assets/edge-agency-banner.png" alt="EDGE | AGENCY" width="100%" />
 
-<img src="assets/edge-agency-banner.png" alt="EDGE | AGENCY Banner" width="100%"/>
+  # EdgeAgent
 
-# EdgeAgent
+  **Practical AI systems, clear operating boundaries, and projects that stand on their own.**
 
-### Building practical AI systems for people who need control, portability, and real-world reliability.
-
-I build tools at the intersection of **local LLMs, autonomous workflows, human oversight, automation, and spatial computing**.
-
-[Explore the portfolio](#featured-work) · [View the project map](#portfolio-map) · [Visit Edge Agency](https://edgeagency.pro)
-
+  [![JARVIS](https://img.shields.io/badge/JARVIS-platform-8B5CF6?style=for-the-badge)](https://github.com/EdgeAgent/jarvis-neural-console)
+  [![Automation](https://img.shields.io/badge/automation-n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)](https://github.com/EdgeAgent/n8n-automations)
+  [![Local first](https://img.shields.io/badge/design-local--first-06B6D4?style=for-the-badge)](https://github.com/EdgeAgent/modeldock-usb)
+  [![Human oversight](https://img.shields.io/badge/operations-human%20in%20control-10B981?style=for-the-badge)](https://github.com/EdgeAgent/traceforge)
 </div>
 
----
+<br />
 
-## Portfolio map
+> **This is the front door, not a dumping ground.** Each featured project has its own repository, documentation, release history, and setup path.
 
-The work is organized around one question: **how do we make powerful software understandable and useful to the person responsible for the outcome?**
+## Main projects
 
-<div align="center">
+### JARVIS platform
 
-![Edge Agency portfolio map: local AI, spatial computing, automation, governance, and TraceForge](https://raw.githubusercontent.com/EdgeAgent/EdgeAgent/main/assets/edge-portfolio-map.svg)
+| Project | What it is | Repository |
+| --- | --- | --- |
+| **JARVIS Neural Console** | A visual, voice-enabled 3D operator console with safe high-level traces, browser voice controls, typed fallback, and Docker deployment. | [Open console →](https://github.com/EdgeAgent/jarvis-neural-console) |
+| **JARVIS Department Agent** | The FastAPI brain behind JARVIS: bounded department managers, explicit approval gates, n8n-ready contracts, and local CosyVoice-ready replies. | [Open service →](https://github.com/EdgeAgent/jarvis-department-agent) |
 
-</div>
+### Automation and operating systems
 
-## Featured work
+| Project | What it is | Repository |
+| --- | --- | --- |
+| **n8n Automations** | A focused library of automation workflows and operator documentation. No JARVIS application source is mixed into it. | [Open automations →](https://github.com/EdgeAgent/n8n-automations) |
+| **ModelDock USB** | A portable local-LLM command center with approval gates, audit trails, recovery controls, and offline-first execution. | [Open ModelDock →](https://github.com/EdgeAgent/modeldock-usb) |
+| **QuantumSignal Engine** | A local-first research and paper-trading intelligence showcase. | [Open QuantumSignal →](https://github.com/EdgeAgent/quantum-signal-engine-pages) |
+| **TraceForge** | An auditable AI framework built around structured inference, confidence thresholds, and human review. | [Open TraceForge →](https://github.com/EdgeAgent/traceforge) |
 
-These seven projects are the clearest, strongest expression of the portfolio: local-first execution, auditable AI, safe agent communication, spatial computing, creator workflows, and the current QuantumSignal research platform.
-
-| Project | What it demonstrates | Status |
-|---|---|---|
-| **[QuantumSignal Engine Showcase](https://github.com/EdgeAgent/quantum-signal-engine-pages)** | Public front page for the local-first crypto intelligence and paper-trading research engine. | Live showcase |
-| **[ModelDock USB](https://github.com/EdgeAgent/modeldock-usb)** | Local LLM command center with approval gates, audit trails, recovery controls, and portable execution. | Studio build |
-| **[TraceForge](https://github.com/EdgeAgent/traceforge)** | Auditable AI framework with structured inference, confidence thresholds, human review, and traceable decisions. | Public framework |
-| **[DSER Agent Framework](https://github.com/EdgeAgent/dser-agent-framework)** | Evidence reconciliation for provenance-aware agent memory and action. | Public framework |
-| **[RELAY — Agent Swarm Protocol](https://github.com/EdgeAgent/relay-protocol)** | Compact, versioned messaging for safe communication between specialist agents. | Protocol design |
-| **[Visionary3D Studio](https://github.com/EdgeAgent/visionary3d-studio)** | Conversational AI-driven 3D asset and animation generation workflows. | Spatial studio |
-| **[Creative Research Studio](https://github.com/EdgeAgent/creative-research-studio)** | Research-to-content operating system for source-grounded briefs, creative direction, images, interfaces, motion, and human-sounding copy. | Creator workflow |
-
-## Featured studio builds
-
-All studio builds and frameworks are fully open-source and live. **[ModelDock USB](https://github.com/EdgeAgent/modeldock-usb)** is a local LLM command center for inspectable business workflows, approval gates, audit logs, recovery controls, and portable execution. **[TraceForge](https://github.com/EdgeAgent/traceforge)** is an auditable AI framework for Ontario industrial sectors, with structured inference, confidence thresholds, human review, and traceable decisions.
-
-## Featured project: ModelDock USB
-
-[![ModelDock USB](https://img.shields.io/badge/Studio%20build-ModelDock%20USB-06b6d4?style=for-the-badge&logo=github)](https://github.com/EdgeAgent/modeldock-usb)
-
-**ModelDock USB** is a local LLM command center for autonomous business workflows—with humans in control. It turns plain-language requests into inspectable workflows, routes work through specialist agents, pauses for approval when risk matters, and preserves an operational audit trail.
-
-![ModelDock USB architecture: local model runtime, workflow planner, human approval desk, live monitoring, audit trail, and emergency stop](https://raw.githubusercontent.com/EdgeAgent/EdgeAgent/main/assets/modeldock-architecture.png)
-
-| Built for | What it provides |
-|---|---|
-| **Local-first operators** | Offline execution, USB-local JSON persistence, loopback model health checks |
-| **Cross-platform workflows** | Windows, macOS, and Linux launchers with USB-root-relative paths |
-| **Human oversight** | Approval gates, audit logs, pause/resume, retries, timeouts, and emergency stop |
-| **Model operators** | Platform-aware model discovery, read-only file scanning, and local setup validation |
-
-### Why it matters
-
-Most agent demos optimize for a successful answer. ModelDock optimizes for the operating loop around the answer: **start safely, inspect progress, review sensitive actions, recover from failure, and keep control**.
-
-### Start here
-
-```bash
-git clone https://github.com/EdgeAgent/modeldock-usb.git
-cd modeldock-usb
-pnpm install
-pnpm check
-pnpm test
-pnpm dev
-```
-
-→ **[Read the ModelDock USB README](https://github.com/EdgeAgent/modeldock-usb#readme)**
-
-## Featured specification: Multi-Agent Orchestration
-
-[![Multi-Agent Orchestration](https://img.shields.io/badge/Specification-Multi--Agent--Orchestration-10b981?style=for-the-badge&logo=github)](https://github.com/EdgeAgent/multi-agent-orchestration)
-
-**Multi-Agent Orchestration** is a technical blueprint for moving beyond chaotic LLM chat rooms into structured, protocol-driven software architectures. It codifies the transition from unconstrained peer topologies to deterministic, fault-tolerant agent networks using asymmetric model routing and standardized protocol stacks.
-
-![Multi-Agent Orchestration architecture: Hierarchical Supervisor, Fan-Out/In, Bounded Swarms, and Work-as-Git local workspaces](https://raw.githubusercontent.com/EdgeAgent/multi-agent-orchestration/master/docs/token_inflation_chart.png)
-
-| Architecture Pillar | What it provides |
-|---|---|
-| **Standardized Protocols** | Implementation of MCP, ACP, A2A, and ANP for seamless, cross-vendor agent communication. |
-| **Work-as-Git Workspaces** | Local-first, file-backed state management using `~/.openalice` for absolute auditability. |
-| **Deterministic Control** | Six production topologies (Supervisor, Debate, Pipeline) with explicit human approval gates. |
-| **Quantitative Risk** | Pre-dispatch token cost estimation and rigorous position-sizing risk models for trading. |
-
-### Why it matters
-
-Unstructured agent groups suffer from 15x token inflation and 100% cascade failure rates. This specification provides the engineering guardrails required to deploy autonomous agents that are fast, predictable, and safe.
-
-→ **[Read the Multi-Agent Orchestration Specification](https://github.com/EdgeAgent/multi-agent-orchestration#readme)**
-
-## Featured industry solution: Real Estate AI Agent Framework (RE-AAF)
-
-[![Real Estate AI Agent Framework](https://img.shields.io/badge/Industry-Real--Estate--AI--Framework-10b981?style=for-the-badge&logo=github)](https://github.com/EdgeAgent/real-estate-agent-framework)
-
-**Real Estate AI Agent Framework (RE-AAF)** is an institutional-grade multi-agent architecture that automates the 9 pillars of commercial due diligence. It transforms traditional, fragmented acquisition workflows into an autonomous, verifiable analysis loop that moves from weeks of manual research to hours of execution.
-
-![RE-AAF Efficiency: AI vs Manual Real Estate Due Diligence](https://raw.githubusercontent.com/EdgeAgent/real-estate-agent-framework/master/assets/efficiency_benchmark.png)
-
-| Operational Pillar | AI Agent Implementation |
-|---|---|
-| **Financial Audit** | Autonomous DSCR calculation, cash flow projection, and stress testing. |
-| **Geospatial Intelligence** | Multi-channel analysis of foot traffic, competitor density, and infrastructure. |
-| **Compliance & Physicals** | Automated zoning law review, ADA compliance scanning, and maintenance auditing. |
-| **Deal Optimization** | Risk-adjusted bid generation based on historical sales and property history. |
-
-### Why it matters
-
-Institutional real estate acquisition requires absolute precision across multiple domains. RE-AAF provides the modular framework to scale due diligence with institutional rigor, 95% efficiency gains, and autonomous equity growth modeling.
-
-![RE-AAF Equity Modeling: Rent vs Ownership](https://raw.githubusercontent.com/EdgeAgent/real-estate-agent-framework/master/assets/equity_vs_rent.png)
-
-→ **[Read the Real Estate AI Agent Framework Blueprint](https://github.com/EdgeAgent/real-estate-agent-framework#readme)**
-
-## Featured research: Foundation Agent Architecture (FAA)
-
-[![Foundation Agent Architecture](https://img.shields.io/badge/Research-Foundation--Agent--Architecture-3b82f6?style=for-the-badge&logo=github)](https://github.com/EdgeAgent/foundation-agent-architecture)
-
-**Foundation Agent Architecture (FAA)** translates the landmark 264-page survey by researchers from **Stanford, Yale, and Google DeepMind** into a practical engineering blueprint. It moves beyond isolated LLMs toward modular, brain-inspired systems that map cognitive, perceptual, and action modules to biological neural regions.
-
-![FAA Memory Lifecycle: Importance-weighted memory retention and temporal decay](https://raw.githubusercontent.com/EdgeAgent/foundation-agent-architecture/master/assets/memory_decay_lifecycle.png)
-
-| Cognitive Pillar | Engineering Implementation |
-|---|---|
-| **Modular Brain Mapping** | Planning (Prefrontal Cortex), Perception (Sensory Cortices), and Action (Motor Cortex). |
-| **Memory Lifecycle** | Hippocampus-inspired importance-weighted storage and Ebbinghaus-style temporal decay. |
-| **ORPA Execution Loop** | Continuous cycle of Observation, Reflection, Planning, and Action for proactive deliberation. |
-| **Bounded Autonomy** | Hard-coded Deontic Principles (Rules of Engagement) for ethical and safe agent execution. |
-
-### Why it matters
-
-Chatbots optimize for answers; Foundation Agents optimize for the operating loop. This architecture provides the theoretical and practical foundation for building agents that learn, adapt, and operate safely at scale.
-
-→ **[Read the Foundation Agent Architecture Blueprint](https://github.com/EdgeAgent/foundation-agent-architecture#readme)**
-
-## Featured framework: RELAY
-
-[![RELAY](https://img.shields.io/badge/Framework-RELAY-22d3ee?style=for-the-badge&logo=n8n&logoColor=white)](https://github.com/EdgeAgent/relay-protocol)
-
-**RELAY** is a compact communication layer for an internal agent swarm. It is designed for the place where broad interoperability standards are not the bottleneck: one operator’s own n8n workflows, where messages need to be fast, inexpensive, versioned, and easy to audit.
-
-The protocol uses a fixed positional envelope—`v|FROM|TO|INTENT|REF|PAYLOAD`—with a shared codebook for agent roles, intents, stages, and task types. Instead of repeating verbose JSON keys, agents exchange compact payloads such as `L:4471,S:82,ACT:CALL`. **HERALD** translates the wire format into readable logs and dashboards, while unknown codes fail safely through `ESC` and human review.
-
-![RELAY agent swarm protocol architecture: SCOUT, QUALIFIER, COLDPEN, SHEPHERD, LEDGER, HERALD, operator dashboard, and safe human escalation](https://raw.githubusercontent.com/EdgeAgent/EdgeAgent/main/assets/relay-architecture.png)
-
-| Protocol principle | What it provides |
-|---|---|
-| **Fixed envelope** | Predictable parsing with minimal repeated tokens across every message. |
-| **Live codebook** | Versioned n8n Data Table shared by every agent and workflow. |
-| **Compact payloads** | Short key-value pairs and enums for lead, task, and workflow state. |
-| **Human translation** | HERALD turns compact messages into readable operational records. |
-| **Safe fallback** | Unsupported versions or intents emit `ESC` rather than guessing. |
-
-### Example message
+## How the projects fit together
 
 ```text
-1|SC|CP|REQ|482|L:4471,S:82,ACT:CALL
+JARVIS Neural Console        → visual interface and browser interaction
+JARVIS Department Agent      → routing, manager coordination, approval boundaries
+n8n Automations              → independent workflow collection and integrations
+ModelDock / TraceForge       → local-first execution and auditable AI patterns
 ```
 
-→ **SCOUT** requests **COLDPEN** to act on lead `4471`, scored at `82%`, with a follow-up call as the next action.
+Each repository is independently usable. Where they integrate, the boundary is documented rather than hidden: the console presents the interface, the JARVIS service returns bounded API responses, and n8n handles only explicitly approved downstream work.
 
-### Why it matters
+## Explore by focus
 
-RELAY does not try to replace cross-vendor standards such as A2A. It occupies a narrower, practical layer: a cheap and predictable internal dialect for a known swarm, with a translation and escalation boundary that keeps the system understandable to its operator.
-
-## What I am focused on
-
-I am exploring how local models and agentic systems can become dependable operating tools rather than isolated demos. The work is centered on portable execution, transparent state, safety boundaries, and interfaces that make autonomy understandable to the person responsible for the outcome.
-
-| Principle | Meaning in practice |
-|---|---|
-| **Local when possible** | Keep sensitive workflows close to the operator and make cloud use explicit. |
-| **Human at the boundary** | Automation can prepare and coordinate; people decide when consequences matter. |
-| **Inspectable by default** | Every meaningful action should have a status, a reason, and an audit trail. |
-| **Portable by design** | A useful tool should not depend on one machine, one vendor, or one fragile setup. |
-| **Honest about readiness** | Host validation, failure recovery, and security work matter more than a polished demo. |
-
-## Connect with the work
-
-Start with the public **[QuantumSignal Engine Showcase](https://github.com/EdgeAgent/quantum-signal-engine-pages)**, explore the spatial work in **[Visionary3D Studio](https://github.com/EdgeAgent/visionary3d-studio)**, or read the safety architecture in **[TraceForge](https://github.com/EdgeAgent/traceforge)**. Issues and pull requests are welcome when they improve operator control, reproducibility, accessibility, security, or cross-platform reliability.
+| If you want to… | Start here |
+| --- | --- |
+| Use or develop the 3D JARVIS interface | [JARVIS Neural Console](https://github.com/EdgeAgent/jarvis-neural-console) |
+| Run the JARVIS manager/sub-agent service on a local machine | [JARVIS Department Agent](https://github.com/EdgeAgent/jarvis-department-agent) |
+| Build automations and integrations | [n8n Automations](https://github.com/EdgeAgent/n8n-automations) |
+| Operate a local model with review controls | [ModelDock USB](https://github.com/EdgeAgent/modeldock-usb) |
+| Study auditable AI patterns | [TraceForge](https://github.com/EdgeAgent/traceforge) |
 
 <div align="center">
-
-**Local models. Human oversight. Portable operations.**
-
+  <br />
+  <strong>Separate products. Clear boundaries. Human control where it matters.</strong>
 </div>
-
-## References
-
-[1]: https://github.com/EdgeAgent/modeldock-usb "ModelDock USB repository"
-[2]: https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-github-profile/about-your-profile-readme "GitHub profile README documentation"
