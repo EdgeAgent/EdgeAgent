@@ -1,34 +1,43 @@
 [![EDGE | AGENCY](assets/edge-agency-banner.png)](https://edgeagency.pro)
 
-# EDGE | AGENCY
+# Kevin Doherty
 
-> **AI operating systems, disciplined automation, privacy-minded tools, and research surfaces built for people who need to see what is happening.**
+### Founder, product builder, and hands-on AI systems engineer at EDGE | AGENCY
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-58%20public%20repositories-0B1020?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EdgeAgent?tab=repositories)
-[![Focus](https://img.shields.io/badge/Focus-Agent%20systems%20%C2%B7%20Automation%20%C2%B7%20Crypto%20research-00A896?style=for-the-badge)](https://github.com/EdgeAgent?tab=repositories)
-[![Operating principle](https://img.shields.io/badge/Operating%20principle-Human%20control%20where%20it%20matters-1E6091?style=for-the-badge)](https://edgeagency.pro)
+> **I turn complex ideas into working products: AI agents, full-stack applications, automation systems, trading-intelligence tools, private-by-design utilities, and high-impact interfaces.**
 
-I build connected but independently usable systems across **agent operations**, **automation**, **crypto research**, **browser extensions**, **AI governance**, and **spatial interfaces**. This page is the portfolio map: start with a flagship system, then go deeper through the complete category directory below.
+[![Builder](https://img.shields.io/badge/Builder-Full--stack%20AI%20products-0B1020?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EdgeAgent?tab=repositories)
+[![Specialty](https://img.shields.io/badge/Specialty-Agent%20systems%20%C2%B7%20Automation%20%C2%B7%20Trading%20intelligence-00A896?style=for-the-badge)](https://github.com/EdgeAgent?tab=repositories)
+[![Approach](https://img.shields.io/badge/Approach-Build%20it%20%C2%B7%20Test%20it%20%C2%B7%20Ship%20it-1E6091?style=for-the-badge)](https://edgeagency.pro)
 
-| Start here | Go directly to |
+I am the founder of **EDGE | AGENCY** and the person behind this portfolio. The repositories below are not just ideas: they show how I plan a system, create the interface and backend, connect AI and data services, define the controls, and document how the product should work in the real world.
+
+| What I can build | Proof in this portfolio |
 | --- | --- |
-| **Run an operator console** | [JARVIS Neural Console](https://github.com/EdgeAgent/jarvis-neural-console) · [ClawPilot Command Center](https://github.com/EdgeAgent/clawpilot-command-center) |
-| **Explore a controlled local-AI stack** | [ModelDock USB](https://github.com/EdgeAgent/modeldock-usb) · [TraceForge](https://github.com/EdgeAgent/traceforge) |
-| **Build workflow and CRM automation** | [n8n Automations](https://github.com/EdgeAgent/n8n-automations) · [GHL Pro MCP](https://github.com/EdgeAgent/ghl-pro-mcp) |
-| **Study crypto research systems** | [QuantumSignal Engine](https://github.com/EdgeAgent/quantum-signal-engine) · [EDGE Capital Crypto TradeBot](https://github.com/EdgeAgent/_EDGE-CAPITAL-CRYPTO_tradeBOT-8648) |
-| **Find privacy-minded utilities** | [Threadlight](https://github.com/EdgeAgent/threadlight-chrome-extension) · [API Scout](https://github.com/EdgeAgent/api-scout) |
+| **Full-stack AI products** | [JARVIS Neural Console](https://github.com/EdgeAgent/jarvis-neural-console), [QuantumSignal Engine](https://github.com/EdgeAgent/quantum-signal-engine), [Crypto Trade Pro](https://github.com/EdgeAgent/crypto-trade-pro), and [API Scout Explorer](https://github.com/EdgeAgent/api-scout-explorer). |
+| **Agent and multi-agent systems** | [JARVIS Department Agent](https://github.com/EdgeAgent/jarvis-department-agent), [Swarms on Edge](https://github.com/EdgeAgent/swarms-on-edge), [OpenManus Swarm](https://github.com/EdgeAgent/openmanus-swarm), and [TraceForge](https://github.com/EdgeAgent/traceforge). |
+| **Automation, CRM, and growth systems** | [n8n Automations](https://github.com/EdgeAgent/n8n-automations), [GHL Pro MCP](https://github.com/EdgeAgent/ghl-pro-mcp), [EliteLeads](https://github.com/EdgeAgent/EliteLeads), and [ReachAI](https://github.com/EdgeAgent/ReachAI). |
+| **Trading intelligence and risk-aware UX** | [QuantumSignal](https://github.com/EdgeAgent/quantum-signal-engine), [EDGE Capital Crypto TradeBot](https://github.com/EdgeAgent/_EDGE-CAPITAL-CRYPTO_tradeBOT-8648), [Crypto Trade Pro](https://github.com/EdgeAgent/crypto-trade-pro), and [TradeOS](https://github.com/EdgeAgent/TradeOS). |
+| **Security, privacy, and controlled execution** | [ModelDock USB](https://github.com/EdgeAgent/modeldock-usb), [Threadlight](https://github.com/EdgeAgent/threadlight-chrome-extension), [Client API Vault Relay](https://github.com/EdgeAgent/client-api-vault-relay-chrome-extension), and [Warrantly](https://github.com/EdgeAgent/warrantly). |
+| **3D, visual systems, and premium product UI** | [JARVIS Neural Console](https://github.com/EdgeAgent/jarvis-neural-console), [SPLATwalk](https://github.com/EdgeAgent/SPLATwalk), and [Visionary3D Studio](https://github.com/EdgeAgent/visionary3d-studio). |
 
-![EDGE | AGENCY project atlas](assets/edge-portfolio-map.svg)
+## Signature work: trading intelligence, agent systems, and real products
 
-## Flagship systems
+The work I am most proud to show starts here. These projects demonstrate not only technical range, but also product judgment: data boundaries, paper-mode safety, human approvals, auditability, and systems that feel like products rather than demos.
 
 |  |  |
 | --- | --- |
-| [![JARVIS Neural Console](https://github-readme-stats.vercel.app/api/pin/?username=EdgeAgent&repo=jarvis-neural-console&theme=radical&hide_border=true)](https://github.com/EdgeAgent/jarvis-neural-console) | [![ClawPilot Command Center](https://github-readme-stats.vercel.app/api/pin/?username=EdgeAgent&repo=clawpilot-command-center&theme=radical&hide_border=true)](https://github.com/EdgeAgent/clawpilot-command-center) |
-| [![ModelDock USB](https://github-readme-stats.vercel.app/api/pin/?username=EdgeAgent&repo=modeldock-usb&theme=radical&hide_border=true)](https://github.com/EdgeAgent/modeldock-usb) | [![QuantumSignal Engine](https://github-readme-stats.vercel.app/api/pin/?username=EdgeAgent&repo=quantum-signal-engine&theme=radical&hide_border=true)](https://github.com/EdgeAgent/quantum-signal-engine) |
-| [![EDGE Capital Crypto TradeBot](https://github-readme-stats.vercel.app/api/pin/?username=EdgeAgent&repo=_EDGE-CAPITAL-CRYPTO_tradeBOT-8648&theme=radical&hide_border=true)](https://github.com/EdgeAgent/_EDGE-CAPITAL-CRYPTO_tradeBOT-8648) | [![Threadlight](https://github-readme-stats.vercel.app/api/pin/?username=EdgeAgent&repo=threadlight-chrome-extension&theme=radical&hide_border=true)](https://github.com/EdgeAgent/threadlight-chrome-extension) |
+| [![QuantumSignal Engine](https://github-readme-stats.vercel.app/api/pin/?username=EdgeAgent&repo=quantum-signal-engine&theme=radical&hide_border=true)](https://github.com/EdgeAgent/quantum-signal-engine) | [![EDGE Capital Crypto TradeBot](https://github-readme-stats.vercel.app/api/pin/?username=EdgeAgent&repo=_EDGE-CAPITAL-CRYPTO_tradeBOT-8648&theme=radical&hide_border=true)](https://github.com/EdgeAgent/_EDGE-CAPITAL-CRYPTO_tradeBOT-8648) |
+| [![Crypto Trade Pro](https://github-readme-stats.vercel.app/api/pin/?username=EdgeAgent&repo=crypto-trade-pro&theme=radical&hide_border=true)](https://github.com/EdgeAgent/crypto-trade-pro) | [![JARVIS Neural Console](https://github-readme-stats.vercel.app/api/pin/?username=EdgeAgent&repo=jarvis-neural-console&theme=radical&hide_border=true)](https://github.com/EdgeAgent/jarvis-neural-console) |
+| [![ModelDock USB](https://github-readme-stats.vercel.app/api/pin/?username=EdgeAgent&repo=modeldock-usb&theme=radical&hide_border=true)](https://github.com/EdgeAgent/modeldock-usb) | [![EliteLeads](https://github-readme-stats.vercel.app/api/pin/?username=EdgeAgent&repo=EliteLeads&theme=radical&hide_border=true)](https://github.com/EdgeAgent/EliteLeads) |
 
-## Portfolio directory
+> **Private R&D track:** **Aureon Whale Board** and **HiVE Trader** extend this work into whale intelligence, controlled trading operations, multi-agent trading workflows, premium product design, and provider-gated launch readiness. The source stays private; the product thinking and systems capability are part of my portfolio.
+
+> **Trading-software boundary:** These repositories are research, analytics, simulations, paper-trading, and product-development work. They are not investment advice, performance claims, or a recommendation to trade.
+
+![EDGE | AGENCY project atlas](assets/edge-portfolio-map.svg)
+
+## Complete project directory
 
 **Status guide:** [![Released](https://img.shields.io/badge/Released-0E8A16?style=flat-square)](https://github.com/EdgeAgent?tab=repositories) means a tagged public release is available. [![Explore](https://img.shields.io/badge/Explore-007EC6?style=flat-square)](https://github.com/EdgeAgent?tab=repositories) means a documented project, public workflow library, or usable product surface. [![In development](https://img.shields.io/badge/In%20development-D97706?style=flat-square)](https://github.com/EdgeAgent?tab=repositories) marks active builds. [![Blueprint / research](https://img.shields.io/badge/Blueprint%20%2F%20research-6D28D9?style=flat-square)](https://github.com/EdgeAgent?tab=repositories) marks frameworks, specifications, and references. [![Incubating](https://img.shields.io/badge/Incubating-6B7280?style=flat-square)](https://github.com/EdgeAgent?tab=repositories) marks early or deliberately minimal public work.
 
