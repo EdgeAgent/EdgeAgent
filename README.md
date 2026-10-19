@@ -43,6 +43,7 @@ I’m interested in **AI Automation Engineer, Solutions Engineer, and Developer 
 | Project | Overview | Stack / focus |
 | --- | --- | --- |
 | [JARVIS Department Agent](https://github.com/EdgeAgent/jarvis-department-agent) | FastAPI agent service with bounded department managers, approval gates, n8n contracts, and local voice-response support. | Python · FastAPI · AI agents · n8n |
+| [Lead Automation Platform Case Study](https://github.com/EdgeAgent/lead-automation-platform-case-study) | Sanitized portfolio case study of event-driven lead capture, payment verification, CRM enrichment, automated outreach, and reporting. | Cloudflare Workers · Python · REST APIs · PayPal · web frontend |
 | [EDGE Automation Portfolio](https://github.com/EdgeAgent/edge-automation-portfolio) | 73+ categorized n8n workflow blueprints covering lead generation, real estate, e-commerce, content, service, and integrations. | n8n · APIs · webhooks · workflow design |
 | [Flagship n8n Automations](https://github.com/EdgeAgent/EDGE-AGENCYAutomations-n8n) | Documented examples for AI-assisted content, executive assistance, video workflows, and SDR lead qualification. | n8n · OpenAI · SaaS integrations |
 | [GHL Pro MCP](https://github.com/EdgeAgent/ghl-pro-mcp) | MCP server connecting AI tools to GoHighLevel CRM workflows and analytics. | MCP · APIs · CRM |
