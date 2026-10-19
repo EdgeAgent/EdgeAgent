@@ -1,42 +1,63 @@
-![EDGE | AGENCY](assets/edge-agency-banner.png)
-
 # Kevin Doherty
 
-### Founder, product builder, and AI systems engineer at EDGE | AGENCY
+### AI Systems Engineer & Automation Architect | EDGE | AGENCY
 
-> I build practical AI products, agent systems, automation workflows, secure developer tools, and focused interfaces that move from idea to working system.
+I design and build practical AI systems that connect agents, APIs, and business operations. My work spans **AI agents and multi-agent orchestration, n8n automation, MCP servers, API integrations, developer productivity tools, and full-stack applications**—with a focus on clear interfaces, bounded actions, and systems people can understand and operate.
 
-[![Edge Atlas](https://img.shields.io/badge/Explore-Edge%20Atlas-00D9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EdgeAgent/crypto-trade-pro)
-[![Projects](https://img.shields.io/badge/Projects-AI%20products%20%26%20tools-0B1020?style=for-the-badge)](https://github.com/EdgeAgent?tab=repositories)
-[![Approach](https://img.shields.io/badge/Approach-Build%20it%20%C2%B7%20Test%20it%20%C2%B7%20Document%20it-7C5CFC?style=for-the-badge)](https://github.com/EdgeAgent?tab=repositories)
+I’m interested in roles including **AI Automation Engineer, Solutions Engineer, and Developer Productivity Engineer**. I bring product-minded engineering from problem framing through implementation, integration, and documentation.
 
-## Edge Atlas
-
-**[Edge Atlas](https://github.com/EdgeAgent/crypto-trade-pro)** is my repository of repositories: a source-linked workspace for projects, AI frameworks, and prompt skills. It is the clearest starting point for exploring the systems, experiments, interfaces, and research collected across this profile.
-
-The catalog favors honest metadata over made-up rankings. Each record points back to its source, preserves missing or unavailable information, and separates the broader AI workspace from the optional CryptoTrade Pro trading route.
+[Portfolio](https://edgeagency.pro) · [Projects](https://github.com/EdgeAgent?tab=repositories) · [Contact via EDGE | AGENCY](https://edgeagency.pro)
 
 ## What I build
 
-| Focus | Selected work |
-| --- | --- |
-| **AI agents and operator systems** | [JARVIS Neural Console](https://github.com/EdgeAgent/jarvis-neural-console), [JARVIS Department Agent](https://github.com/EdgeAgent/jarvis-department-agent), [BuizAgents](https://github.com/EdgeAgent/buizagents-4754), [ClawPilot](https://github.com/EdgeAgent/clawpilot-command-center) |
-| **Frameworks and governed execution** | [TraceForge](https://github.com/EdgeAgent/traceforge), [Warrantly](https://github.com/EdgeAgent/warrantly), [DSER Agent Framework](https://github.com/EdgeAgent/dser-agent-framework), [Swarms on Edge](https://github.com/EdgeAgent/swarms-on-edge) |
-| **Automation and prompt libraries** | [n8n Automations](https://github.com/EdgeAgent/n8n-automations), [GHL Pro MCP](https://github.com/EdgeAgent/ghl-pro-mcp), [Edge Automation Portfolio](https://github.com/EdgeAgent/edge-automation-portfolio) |
-| **Secure developer tools** | [Threadlight](https://github.com/EdgeAgent/threadlight-chrome-extension), [Client API Vault Relay](https://github.com/EdgeAgent/client-api-vault-relay-chrome-extension), [API Scout](https://github.com/EdgeAgent/api-scout) |
-| **Research and trading intelligence** | [QuantumSignal Engine](https://github.com/EdgeAgent/quantum-signal-engine), [CryptoTrade Pro](https://github.com/EdgeAgent/crypto-trade-pro), [TradeOS](https://github.com/EdgeAgent/TradeOS) |
+| Focus | Selected projects | Engineering emphasis |
+| --- | --- | --- |
+| **AI agents & orchestration** | [JARVIS Department Agent](https://github.com/EdgeAgent/jarvis-department-agent), [ClawPilot](https://github.com/EdgeAgent/clawpilot-command-center) | FastAPI services, bounded agent roles, approval gates, tool and workflow contracts |
+| **Automation architecture** | [EDGE Automation Portfolio](https://github.com/EdgeAgent/edge-automation-portfolio), [Flagship n8n Automations](https://github.com/EdgeAgent/EDGE-AGENCYAutomations-n8n) | Reusable workflow blueprints, API integrations, human review points, operational handoffs |
+| **MCP & API integrations** | [GHL Pro MCP](https://github.com/EdgeAgent/ghl-pro-mcp), [API Scout](https://github.com/EdgeAgent/api-scout) | Tool interfaces, service integration, API discovery, structured data exchange |
+| **Developer & browser tools** | [Client API Vault Relay](https://github.com/EdgeAgent/client-api-vault-relay-chrome-extension), [Threadlight](https://github.com/EdgeAgent/threadlight-chrome-extension) | Chrome Manifest V3, local-first design, explicit permissions, secure integration patterns |
+| **Search & workflow infrastructure** | [EDGE / SEARCHER](https://github.com/EdgeAgent/n8n-automations) | Stable API contracts, n8n-ready outputs, observability and practical operator UX |
 
-## How I work
+## Technical skills
 
-I care about the boundary between an impressive demo and a dependable product. My builds tend to include explicit states, source attribution, scoped integrations, reviewable actions, audit trails, and documentation that explains what is real, what is unavailable, and what remains experimental.
+**AI & agents:** OpenAI APIs, tool-using agents, multi-agent systems, prompt and workflow design, human-in-the-loop controls  
+**Automation & integration:** n8n, MCP servers, REST APIs, webhooks, OAuth/API integrations, CRM and SaaS workflows  
+**Languages & application development:** Python, TypeScript, JavaScript, FastAPI, full-stack web development  
+**Infrastructure & delivery:** Docker, GitHub Actions, cloud infrastructure, CI/CD, Git, Linux  
+**Developer tools:** Chrome extensions (Manifest V3), command-line tools, API tooling, documentation and testing
 
-I use AI as a building material, not a substitute for product judgment. The goal is a system that people can understand, test, operate, and improve.
+## Architecture approach
+
+I aim for systems with understandable boundaries: a user or event enters through an interface or trigger; application services coordinate narrowly scoped agents and integrations; external systems are accessed through explicit API or MCP contracts; and sensitive or consequential actions can pause for review. Logging and useful documentation make the workflow easier to debug and hand off.
+
+```mermaid
+flowchart LR
+  U[User / Event] --> I[Interface or Trigger]
+  I --> O[Orchestrator]
+  O --> A[Scoped AI Agent]
+  O --> W[n8n Workflow]
+  A --> T[API / MCP Tools]
+  W --> T
+  T --> S[Business Systems]
+  O --> H{Approval needed?}
+  H -->|Yes| R[Human review]
+  H -->|No| X[Run permitted action]
+  R --> X
+  X --> L[Logs, results & follow-up]
+```
 
 ## Start here
 
-- **Browse the [Edge Atlas repository](https://github.com/EdgeAgent/crypto-trade-pro)** for the full source-linked collection.
-- **Explore [all public repositories](https://github.com/EdgeAgent?tab=repositories)** across agents, frameworks, automation, tools, and research.
+- **Automation patterns:** browse the [73+ workflow portfolio](https://github.com/EdgeAgent/edge-automation-portfolio). Clone the repository, choose a workflow under `workflows/`, import its JSON into n8n, configure the required credentials in n8n, then test with representative data before activating.
+- **Flagship systems:** explore [EDGE-AGENCYAutomations-n8n](https://github.com/EdgeAgent/EDGE-AGENCYAutomations-n8n). Clone the repo, select a documented workflow, import the JSON into your n8n instance, add its service credentials, and validate triggers and approval steps before enabling production runs.
+- **Agent service:** see [JARVIS Department Agent](https://github.com/EdgeAgent/jarvis-department-agent) for a FastAPI-based agent service with bounded department managers and approval gates; follow that repository’s README for environment setup and local run instructions.
 
-![EDGE | AGENCY project atlas](assets/edge-portfolio-map.svg)
+Project-specific runtime requirements, environment variables, and deployment steps are documented in each repository. Never commit credentials; use your platform’s secrets or credential store. Confirm integrations and operational safeguards in a test environment before connecting live systems.
 
-> **Research and trading boundary:** trading-related repositories are research, analytics, paper-trading, simulation, and product-development work. They are not investment advice, performance claims, or a recommendation to trade.
+## How I work
+
+I value useful software over inflated claims: explicit capabilities, understandable architecture, scoped permissions, reviewable actions, observable behavior, and setup instructions that help another developer reproduce the result. I’m comfortable translating between technical teams and operational stakeholders, then delivering a working, maintainable implementation.
+
+---
+
+*Building useful systems at the intersection of AI, automation, and developer experience.*
