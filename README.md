@@ -43,7 +43,7 @@ I’m interested in **AI Automation Engineer, Solutions Engineer, and Developer 
 | Project | Overview | Stack / focus |
 | --- | --- | --- |
 | [Lead Automation Platform Case Study](https://github.com/EdgeAgent/lead-automation-platform-case-study) | Sanitized case study of event-driven lead capture, payment verification, CRM enrichment, outreach, and operations reporting. | Cloudflare Workers · Python · REST APIs · Webhooks |
-| [AI Operations Center](https://github.com/EdgeAgent/ai-operations-center) | Small-business observability product concept for AI agents, n8n workflows, API health, token usage, errors, uptime, and operational alerts. | Python · TypeScript · APIs · Observability |
+| [AI Operations Center](https://github.com/EdgeAgent/ai-operations-center) | Small-business observability concept organized around fleet health, cost intelligence, incident response, governance, business metrics, and agent registry. | Python · TypeScript · APIs · Observability |
 | [GHL Pro MCP](https://github.com/EdgeAgent/ghl-pro-mcp) | MCP server connecting AI tools to GoHighLevel CRM workflows, lead scoring, and analytics. | MCP · APIs · CRM |
 | [API Scout](https://github.com/EdgeAgent/api-scout) | Local-first catalog and CLI for discovering free APIs and free-tier LLM providers. | Developer tooling · APIs · local-first |
 | [n8n Automations](https://github.com/EdgeAgent/n8n-automations) | EDGE / SEARCHER API and curated n8n workflow resources for search and automation patterns. | n8n · API integration · observability |
