@@ -49,6 +49,8 @@ I’m interested in **AI Automation Engineer, Solutions Engineer, and Developer 
 | [API Scout](https://github.com/EdgeAgent/api-scout) | Local-first catalog and CLI for discovering free APIs and free-tier LLM providers. | Developer tooling · APIs · local-first |
 | [n8n Automations](https://github.com/EdgeAgent/n8n-automations) | EDGE / SEARCHER API and curated n8n workflow resources for search and automation patterns. | n8n · API integration · observability |
 | [ModelDock USB](https://github.com/EdgeAgent/modeldock-usb) | Local LLM agent operations platform with human oversight. | Local AI · agent operations · developer tools |
+| [BrainScan](https://github.com/EdgeAgent/BrainScan) | Auto-scanning second brain: watches your documents, answers with citations, or refuses. | Python · Qdrant · Docling · FastAPI · RAG |
+| [Clockwork](https://github.com/EdgeAgent/Clockwork) | AI employee framework: clocks in on its own, gathers context, memory and skills, waits for approval, executes, checks, and remembers. | Python · CLI · SQLite · Agent framework |
 
 ## System design
 
