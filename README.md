@@ -41,7 +41,7 @@ I’m interested in **AI Automation Engineer, Solutions Engineer, and Developer 
 ## Project map
 
 <p align="center">
-  <img src="assets/project-map.svg" alt="The EdgeAgent project map: Robot Orchestra as the flagship, over agents at work, a trust layer, a second brain, money systems and a content engine" width="100%" />
+  <img src="assets/project-map.png" alt="The EdgeAgent project map: Robot Orchestra as the flagship, over agents at work, a trust layer, a second brain, money systems and a content engine" width="100%" />
 </p>
 
 ## Selected work
@@ -69,7 +69,7 @@ I’m interested in **AI Automation Engineer, Solutions Engineer, and Developer 
 
 <table>
   <tr>
-    <td width="50%"><a href="https://github.com/EdgeAgent/robot-orchestra"><img src="assets/projects/robot-orchestra.svg" alt="Robot Orchestra" width="100%" /></a></td>
+    <td width="50%"><a href="https://github.com/EdgeAgent/robot-orchestra"><img src="assets/projects/robot-orchestra.png" alt="Robot Orchestra" width="100%" /></a></td>
     <td width="50%"><a href="https://github.com/EdgeAgent/swarm-desk"><img src="assets/projects/swarm-desk.svg" alt="Swarm Desk" width="100%" /></a></td>
   </tr>
   <tr>
