@@ -70,19 +70,19 @@ I’m interested in **AI Automation Engineer, Solutions Engineer, and Developer 
 <table>
   <tr>
     <td width="50%"><a href="https://github.com/EdgeAgent/robot-orchestra"><img src="assets/projects/robot-orchestra.png" alt="Robot Orchestra" width="100%" /></a></td>
-    <td width="50%"><a href="https://github.com/EdgeAgent/swarm-desk"><img src="assets/projects/swarm-desk.svg" alt="Swarm Desk" width="100%" /></a></td>
+    <td width="50%"><a href="https://github.com/EdgeAgent/swarm-desk"><img src="assets/projects/swarm-desk.png" alt="Swarm Desk" width="100%" /></a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/EdgeAgent/multi-cli-framework"><img src="assets/projects/battle-court.svg" alt="Battle Court" width="100%" /></a></td>
-    <td><a href="https://github.com/EdgeAgent/evoloop-framework"><img src="assets/projects/evolveloop.svg" alt="EVOLVELOOP" width="100%" /></a></td>
+    <td><a href="https://github.com/EdgeAgent/multi-cli-framework"><img src="assets/projects/battle-court.png" alt="Battle Court" width="100%" /></a></td>
+    <td><a href="https://github.com/EdgeAgent/evoloop-framework"><img src="assets/projects/evolveloop.png" alt="EVOLVELOOP" width="100%" /></a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/EdgeAgent/hermes-caller-framework"><img src="assets/projects/hermes-caller.svg" alt="Hermes Caller" width="100%" /></a></td>
-    <td><a href="https://github.com/EdgeAgent/agent-proof-framework"><img src="assets/projects/agent-proof.svg" alt="PROOF" width="100%" /></a></td>
+    <td><a href="https://github.com/EdgeAgent/hermes-caller-framework"><img src="assets/projects/hermes-caller.png" alt="Hermes Caller" width="100%" /></a></td>
+    <td><a href="https://github.com/EdgeAgent/agent-proof-framework"><img src="assets/projects/agent-proof.png" alt="PROOF" width="100%" /></a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/EdgeAgent/agent-wallet-framework"><img src="assets/projects/agent-wallet.svg" alt="Agent Wallet" width="100%" /></a></td>
-    <td><a href="https://www.youtube.com/@FeelsIllegalMoney"><img src="assets/projects/feels-illegal.svg" alt="Feels Illegal" width="100%" /></a></td>
+    <td><a href="https://github.com/EdgeAgent/agent-wallet-framework"><img src="assets/projects/agent-wallet.png" alt="Agent Wallet" width="100%" /></a></td>
+    <td><a href="https://www.youtube.com/@FeelsIllegalMoney"><img src="assets/projects/feels-illegal.png" alt="Feels Illegal" width="100%" /></a></td>
   </tr>
 </table>
 
