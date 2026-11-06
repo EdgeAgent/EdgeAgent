@@ -38,6 +38,12 @@ I’m interested in **AI Automation Engineer, Solutions Engineer, and Developer 
 
 **Core strengths:** agent and workflow architecture · REST APIs and webhooks · MCP tool interfaces · human-in-the-loop controls · secure browser tooling · service integration · CI/CD · technical documentation.
 
+## Project map
+
+<p align="center">
+  <img src="assets/project-map.svg" alt="The EdgeAgent project map: Robot Orchestra as the flagship, over agents at work, a trust layer, a second brain, money systems and a content engine" width="100%" />
+</p>
+
 ## Selected work
 
 | Project | Overview | Stack / focus |
@@ -57,6 +63,28 @@ I’m interested in **AI Automation Engineer, Solutions Engineer, and Developer 
 | [Lead Automation Platform Case Study](https://github.com/EdgeAgent/lead-automation-platform-case-study) | Sanitized case study of event-driven lead capture, payment verification, CRM enrichment, outreach, and operations reporting. | Cloudflare Workers · Python · REST APIs · Webhooks |
 | [GHL Pro MCP](https://github.com/EdgeAgent/ghl-pro-mcp) | MCP server connecting AI tools to GoHighLevel CRM workflows, lead scoring, and analytics. | MCP · APIs · CRM |
 | [API Scout](https://github.com/EdgeAgent/api-scout) | Local-first catalog and CLI for discovering free APIs and free-tier LLM providers. | Developer tooling · APIs · local-first |
+
+
+## Project gallery
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://github.com/EdgeAgent/robot-orchestra"><img src="assets/projects/robot-orchestra.svg" alt="Robot Orchestra" width="100%" /></a></td>
+    <td width="50%"><a href="https://github.com/EdgeAgent/swarm-desk"><img src="assets/projects/swarm-desk.svg" alt="Swarm Desk" width="100%" /></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/EdgeAgent/multi-cli-framework"><img src="assets/projects/battle-court.svg" alt="Battle Court" width="100%" /></a></td>
+    <td><a href="https://github.com/EdgeAgent/evoloop-framework"><img src="assets/projects/evolveloop.svg" alt="EVOLVELOOP" width="100%" /></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/EdgeAgent/hermes-caller-framework"><img src="assets/projects/hermes-caller.svg" alt="Hermes Caller" width="100%" /></a></td>
+    <td><a href="https://github.com/EdgeAgent/agent-proof-framework"><img src="assets/projects/agent-proof.svg" alt="PROOF" width="100%" /></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/EdgeAgent/agent-wallet-framework"><img src="assets/projects/agent-wallet.svg" alt="Agent Wallet" width="100%" /></a></td>
+    <td><a href="https://www.youtube.com/@FeelsIllegalMoney"><img src="assets/projects/feels-illegal.svg" alt="Feels Illegal" width="100%" /></a></td>
+  </tr>
+</table>
 
 ## System design
 

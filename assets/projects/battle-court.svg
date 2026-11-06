@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="460" viewBox="0 0 880 460">
+  <rect x="2" y="2" width="876" height="456" rx="18" fill="#0d1117" stroke="#ff6b35" stroke-width="3"/>
+  <rect x="2" y="2" width="876" height="10" rx="5" fill="#ff6b35"/>
+  <g transform="translate(70,90)"><rect x="8" y="30" width="64" height="64" rx="10" fill="none" stroke="#18b8d4" stroke-width="6"/><rect x="128" y="30" width="64" height="64" rx="10" fill="none" stroke="#18b8d4" stroke-width="6"/><path d="M100 8 L126 62 L100 116 L74 62 Z" fill="#ff6b35"/></g>
+  <text x="70" y="330" font-family="Arial, Helvetica, sans-serif" font-size="44" font-weight="bold" fill="#f0f3f6">Battle Court</text>
+  <text x="70" y="378" font-family="Arial, Helvetica, sans-serif" font-size="25" fill="#aeb9c4">Agents compete. A verdict layer judges.</text>
+  <text x="70" y="420" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#ff6b35">Python · Multi-CLI orchestration</text>
+</svg>

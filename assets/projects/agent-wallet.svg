@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="460" viewBox="0 0 880 460">
+  <rect x="2" y="2" width="876" height="456" rx="18" fill="#0d1117" stroke="#ff6b35" stroke-width="3"/>
+  <rect x="2" y="2" width="876" height="10" rx="5" fill="#ff6b35"/>
+  <g transform="translate(70,90)"><rect x="14" y="34" width="172" height="106" rx="14" fill="none" stroke="#ff6b35" stroke-width="7"/><rect x="118" y="70" width="68" height="34" rx="8" fill="#18b8d4"/><circle cx="138" cy="87" r="6" fill="#0d1117"/><rect x="34" y="14" width="90" height="12" rx="6" fill="#f0f3f6" opacity="0.6"/></g>
+  <text x="70" y="330" font-family="Arial, Helvetica, sans-serif" font-size="44" font-weight="bold" fill="#f0f3f6">Agent Wallet</text>
+  <text x="70" y="378" font-family="Arial, Helvetica, sans-serif" font-size="25" fill="#aeb9c4">Capped spend for agents. Humans fund.</text>
+  <text x="70" y="420" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#ff6b35">Python · Kill switch · $ caps</text>
+</svg>

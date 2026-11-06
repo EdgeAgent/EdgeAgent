@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="460" viewBox="0 0 880 460">
+  <rect x="2" y="2" width="876" height="456" rx="18" fill="#0d1117" stroke="#ff6b35" stroke-width="3"/>
+  <rect x="2" y="2" width="876" height="10" rx="5" fill="#ff6b35"/>
+  <g transform="translate(70,90)"><path d="M30 14 Q14 90 62 138 Q110 164 172 150 L160 104 Q120 112 92 92 Q66 72 74 30 Z" fill="none" stroke="#ff6b35" stroke-width="7" stroke-linejoin="round"/><path d="M120 30 Q150 62 146 100" fill="none" stroke="#18b8d4" stroke-width="6" stroke-linecap="round"/><path d="M142 14 Q186 62 178 116" fill="none" stroke="#18b8d4" stroke-width="6" stroke-linecap="round" opacity="0.55"/></g>
+  <text x="70" y="330" font-family="Arial, Helvetica, sans-serif" font-size="44" font-weight="bold" fill="#f0f3f6">Hermes Caller</text>
+  <text x="70" y="378" font-family="Arial, Helvetica, sans-serif" font-size="25" fill="#aeb9c4">Cold-calling agents, scrub list first</text>
+  <text x="70" y="420" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#ff6b35">Python · Voice agents · Approval gates</text>
+</svg>

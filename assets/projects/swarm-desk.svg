@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="460" viewBox="0 0 880 460">
+  <rect x="2" y="2" width="876" height="456" rx="18" fill="#0d1117" stroke="#18b8d4" stroke-width="3"/>
+  <rect x="2" y="2" width="876" height="10" rx="5" fill="#18b8d4"/>
+  <g transform="translate(70,90)"><g stroke="#18b8d4" stroke-width="3" opacity="0.7"><line x1="30" y1="30" x2="95" y2="70"/><line x1="95" y1="70" x2="170" y2="35"/><line x1="95" y1="70" x2="60" y2="135"/><line x1="95" y1="70" x2="165" y2="120"/><line x1="60" y1="135" x2="165" y2="120"/></g><circle cx="30" cy="30" r="11" fill="#ff6b35"/><circle cx="95" cy="70" r="17" fill="#f0f3f6"/><circle cx="170" cy="35" r="11" fill="#18b8d4"/><circle cx="60" cy="135" r="11" fill="#18b8d4"/><circle cx="165" cy="120" r="11" fill="#ff6b35"/></g>
+  <text x="70" y="330" font-family="Arial, Helvetica, sans-serif" font-size="44" font-weight="bold" fill="#f0f3f6">Swarm Desk</text>
+  <text x="70" y="378" font-family="Arial, Helvetica, sans-serif" font-size="25" fill="#aeb9c4">9 agents debate. One confidence score.</text>
+  <text x="70" y="420" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#18b8d4">Python · MCP · v0.1.1 OUT</text>
+</svg>

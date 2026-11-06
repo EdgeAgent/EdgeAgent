@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="460" viewBox="0 0 880 460">
+  <rect x="2" y="2" width="876" height="456" rx="18" fill="#0d1117" stroke="#18b8d4" stroke-width="3"/>
+  <rect x="2" y="2" width="876" height="10" rx="5" fill="#18b8d4"/>
+  <g transform="translate(70,90)"><path d="M100 6 L168 30 V84 Q168 136 100 156 Q32 136 32 84 V30 Z" fill="none" stroke="#18b8d4" stroke-width="7" stroke-linejoin="round"/><path d="M64 82 L90 108 L140 56" fill="none" stroke="#ff6b35" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/></g>
+  <text x="70" y="330" font-family="Arial, Helvetica, sans-serif" font-size="44" font-weight="bold" fill="#f0f3f6">PROOF</text>
+  <text x="70" y="378" font-family="Arial, Helvetica, sans-serif" font-size="25" fill="#aeb9c4">A receipt for everything an agent did</text>
+  <text x="70" y="420" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#18b8d4">Python · Hash-chained audit</text>
+</svg>

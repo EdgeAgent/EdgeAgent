@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="460" viewBox="0 0 880 460">
+  <rect x="2" y="2" width="876" height="456" rx="18" fill="#0d1117" stroke="#ff6b35" stroke-width="3"/>
+  <rect x="2" y="2" width="876" height="10" rx="5" fill="#ff6b35"/>
+  <g transform="translate(70,90)"><circle cx="90" cy="85" r="62" fill="none" stroke="#ff6b35" stroke-width="7"/><circle cx="66" cy="72" r="8" fill="#f0f3f6"/><circle cx="114" cy="72" r="8" fill="#f0f3f6"/><path d="M62 108 Q90 128 118 108" fill="none" stroke="#f0f3f6" stroke-width="6" stroke-linecap="round"/><line x1="90" y1="23" x2="90" y2="2" stroke="#ff6b35" stroke-width="6"/><circle cx="90" cy="0" r="2" fill="#ff6b35"/><path d="M168 46 Q190 85 168 124" fill="none" stroke="#18b8d4" stroke-width="6" stroke-linecap="round"/><path d="M196 30 Q230 85 196 140" fill="none" stroke="#18b8d4" stroke-width="6" stroke-linecap="round" opacity="0.55"/></g>
+  <text x="70" y="330" font-family="Arial, Helvetica, sans-serif" font-size="44" font-weight="bold" fill="#f0f3f6">Robot Orchestra</text>
+  <text x="70" y="378" font-family="Arial, Helvetica, sans-serif" font-size="25" fill="#aeb9c4">A robot head that runs a team of agents</text>
+  <text x="70" y="420" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#ff6b35">Electron · React · Ollama · v0.6.0 OUT</text>
+</svg>
