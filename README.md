@@ -38,6 +38,16 @@ I’m interested in **AI Automation Engineer, Solutions Engineer, and Developer 
 
 **Core strengths:** agent and workflow architecture · REST APIs and webhooks · MCP tool interfaces · human-in-the-loop controls · secure browser tooling · service integration · CI/CD · technical documentation.
 
+## Automation in production
+
+The work that's actually running, not just built:
+
+| System | What it does every day | Proof |
+| --- | --- | --- |
+| [Hermes Lead Engine](https://agencylead.ca) | Governed outreach for AgencyLead.ca: business discovery, dedup and never-contact scrub checks enforced in code before every send, over Cloudflare's email API. | 50 sends/day hard cap · zero duplicate sends since the gate went in |
+| [n8n Workflow Portfolio](https://github.com/EdgeAgent/edge-automation-portfolio) | Production n8n blueprints: lead capture and enrichment, CRM follow-up, content operations — importable workflows with credentials kept in n8n, never in the exports. | Curated from live client-style builds |
+| [GHL Pro MCP](https://github.com/EdgeAgent/ghl-pro-mcp) | Lets AI tools run GoHighLevel CRM work — lead scoring, pipeline analytics, workflow triggers — through one MCP server. | Working MCP server, public repo |
+
 ## Project map
 
 <p align="center">
@@ -48,15 +58,15 @@ I’m interested in **AI Automation Engineer, Solutions Engineer, and Developer 
 
 | Project | Overview | Stack / focus |
 | --- | --- | --- |
-| [Robot Orchestra](https://github.com/EdgeAgent/robot-orchestra) | Local-first Windows multi-agent desktop copilot: a floating robot head (Roboto) delegates to agents working in their own watchable sandbox screens. v0.6.0 released. [Download](https://github.com/EdgeAgent/robot-orchestra/releases/latest) · [getrobotorchestra.com](https://getrobotorchestra.com) | Electron · React/TypeScript · Ollama · Hermes/OpenRouter |
-| [Swarm Desk](https://github.com/EdgeAgent/swarm-desk) | A 9-persona agent swarm that debates a stock from bull, bear, quant and sentiment seats and returns one confidence score for a trading desk's 0.70 catalyst gate. Every prediction is written to an experiment ledger and scored against what actually happened. Plugs into any agent via MCP, HTTP or Python. v0.1.1 released. | Python · MCP · Multi-agent systems |
-| [Battle Court](https://github.com/EdgeAgent/multi-cli-framework) | Multi-CLI agent framework: parallel coding agents work in isolated sandboxes and a Verdict Layer judges the results — winners are staged for human approval, never auto-merged or shipped. | Python · Agent orchestration · Evaluation |
-| [EVOLVELOOP](https://github.com/EdgeAgent/evoloop-framework) | Self-immune agent framework: failures become antibodies (tests and guards), and the system evolves one human-approved rule change per cycle around an immutable safety core. | Python · Agent safety · Testing |
-| [Hermes Caller](https://github.com/EdgeAgent/hermes-caller-framework) | Agent-phone cold-calling framework: scrub/DNC filtering first, approval-gated call packets, scripted outreach and wholesale modes. | Python · Voice agents · Compliance gates |
-| [PROOF](https://github.com/EdgeAgent/agent-proof-framework) | The agent receipt layer: every agent run produces a hash-chained, verifiable proof of what it did, what it touched, and what it returned. | Python · Provenance · Audit |
-| [Agent Wallet](https://github.com/EdgeAgent/agent-wallet-framework) | A spending wallet for agent frameworks: per-spend and daily caps, a kill switch, and funding intents only — agents propose spend, humans fund it. | Python · Agent safety · Payments |
+| [Robot Orchestra](https://github.com/EdgeAgent/robot-orchestra) | Local-first Windows multi-agent desktop copilot: a floating robot head (Roboto) delegates to agents working in their own watchable sandbox screens. v0.6.0 released — 66 release downloads so far. [Download](https://github.com/EdgeAgent/robot-orchestra/releases/latest) · [getrobotorchestra.com](https://getrobotorchestra.com) | Electron · React/TypeScript · Ollama · Hermes/OpenRouter |
+| [Swarm Desk](https://github.com/EdgeAgent/swarm-desk) | A 9-persona agent swarm that debates a stock from bull, bear, quant and sentiment seats and returns one confidence score for a trading desk's 0.70 catalyst gate. Every prediction is written to an experiment ledger and scored against what actually happened. Plugs into any agent via MCP, HTTP or Python. v0.1.1 released. First live test: 12 predictions frozen on Nov 5, 2026, scored against the real market a week later · 30/30 tests passing. | Python · MCP · Multi-agent systems |
+| [Battle Court](https://github.com/EdgeAgent/multi-cli-framework) | Multi-CLI agent framework: parallel coding agents work in isolated sandboxes and a Verdict Layer judges the results — winners are staged for human approval, never auto-merged or shipped. 61/61 tests passing. | Python · Agent orchestration · Evaluation |
+| [EVOLVELOOP](https://github.com/EdgeAgent/evoloop-framework) | Self-immune agent framework: failures become antibodies (tests and guards), and the system evolves one human-approved rule change per cycle around an immutable safety core. 38 tests passing. | Python · Agent safety · Testing |
+| [Hermes Caller](https://github.com/EdgeAgent/hermes-caller-framework) | Agent-phone cold-calling framework: scrub/DNC filtering first, approval-gated call packets, scripted outreach and wholesale modes. 65 tests passing. | Python · Voice agents · Compliance gates |
+| [PROOF](https://github.com/EdgeAgent/agent-proof-framework) | The agent receipt layer: every agent run produces a hash-chained, verifiable proof of what it did, what it touched, and what it returned. 6/6 tests passing. | Python · Provenance · Audit |
+| [Agent Wallet](https://github.com/EdgeAgent/agent-wallet-framework) | A spending wallet for agent frameworks: per-spend and daily caps, a kill switch, and funding intents only — agents propose spend, humans fund it. Hard caps: $25 per spend, $100 per day · 12/12 tests passing. | Python · Agent safety · Payments |
 | [WRECK](https://github.com/EdgeAgent/WRECK) | Web Reverse Engineering & Cloning Kit — an extensible, evidence-first toolkit for studying how websites work under the hood. | Developer tooling · Web research |
-| [Hermes Lead Engine · AgencyLead.ca](https://agencylead.ca) | Production lead pipeline behind AgencyLead.ca: business discovery, dedup and never-contact scrub enforcement, verified outreach sends, and a 50/day governed cap. *(Private client system.)* | Python · Cloudflare · Lead generation |
+| [Hermes Lead Engine · AgencyLead.ca](https://agencylead.ca) | Production lead pipeline behind AgencyLead.ca: business discovery, dedup and never-contact scrub enforcement, verified outreach sends, and a 50/day governed cap enforced before every send. *(Private client system.)* | Python · Cloudflare · Lead generation |
 | [BrainScan](https://github.com/EdgeAgent/BrainScan) | Auto-scanning second brain: watches your documents, answers with citations, or refuses. *(Private.)* | Python · Qdrant · Docling · FastAPI · RAG |
 | [Clockwork](https://github.com/EdgeAgent/Clockwork) | AI employee framework: clocks in on its own, gathers context, memory and skills, waits for approval, executes, checks, and remembers. *(Private.)* | Python · CLI · SQLite · Agent framework |
 | [Feels Illegal](https://www.youtube.com/@FeelsIllegalMoney) | AI content pipeline and YouTube channel: stick-figure Shorts that break down money plays and name the catch — script, local AI voice, animated scenes, published with full SEO packs. Five Shorts live. | Python · FFmpeg · AI video |
