@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/edge-profile-banner.png" alt="EDGE | AGENCY — AI systems and automation engineering" width="100%" />
-</p>
-
 <h1 align="center">Kevin Doherty</h1>
 <h3 align="center">AI Systems Engineer &amp; Automation Architect · EDGE | AGENCY</h3>
 
