@@ -21,6 +21,15 @@ I build production AI and automation systems. My work connects agents, APIs, and
 
 I’m interested in **AI Automation Engineer, Solutions Engineer, and Developer Productivity Engineer** roles. I bring product-minded engineering from problem framing through implementation, integration, and documentation.
 
+## The AI Automation Series
+
+A two-step open-source series for building AI automation in Python — foundation first, then working agents. Both repositories run their full test suites on fakes: no network, no API keys, no paid model calls.
+
+| Step | Repository | What it is | Proof |
+| --- | --- | --- | --- |
+| 1 | [AI Automation Starter Kit](https://github.com/EdgeAgent/ai-automation-starter) | A modular Python foundation: twelve install profiles, an `ai-starter` diagnostics CLI, and a runnable FastAPI + Redis/Celery AI job service with fail-closed auth. | 19 tests passing · Docker quick start |
+| 2 | [AI Automation Agents](https://github.com/EdgeAgent/ai-automation-agents) | Twelve production-pattern agent recipes in build order — lead-list cleaning, quote drafting, document Q&A, inbox triage, lead response, web research, scheduled reporting — tied together by a router, shared local memory, pipelines, and approval gates with tamper-evident receipts. | 102 tests passing · CI green on Python 3.11–3.13 |
+
 ## Technology toolkit
 
 <p>
@@ -58,9 +67,9 @@ The work that's actually running, not just built:
 
 | Project | Overview | Stack / focus |
 | --- | --- | --- |
-| [Robot Orchestra](https://github.com/EdgeAgent/robot-orchestra) | Local-first Windows multi-agent desktop copilot: a floating robot head (Roboto) delegates to agents working in their own watchable sandbox screens. 0.7.0 Preview out now — 74 release downloads and counting. [Download](https://github.com/EdgeAgent/robot-orchestra/releases/latest) · [getrobotorchestra.com](https://getrobotorchestra.com) | Electron · React/TypeScript · Ollama · Hermes/OpenRouter |
+| [Robot Orchestra](https://github.com/EdgeAgent/robot-orchestra) | Local-first Windows multi-agent desktop copilot: a floating robot head (Roboto) delegates to agents working in their own watchable sandbox screens. Version 0.7.2 out now — 175+ release downloads. [Download](https://github.com/EdgeAgent/robot-orchestra/releases/latest) · [getrobotorchestra.com](https://getrobotorchestra.com) | Electron · React/TypeScript · Ollama · Hermes/OpenRouter |
 | [AI Rollout Pack](https://github.com/EdgeAgent/ai-rollout-pack) | The adoption layer: put an AI employee to work inside a small business — lane one-pagers, a governance sheet with approval gates and a kill switch, a staff guide, and a zero-dependency CLI that scaffolds the whole rollout and lints it against 7 governance rules. Fully worked fictional example plus a sanitized case study of the real pattern. 21/21 tests passing. | Python · Templates · Governance |
-| [Swarm Desk](https://github.com/EdgeAgent/swarm-desk) | A 9-persona agent swarm that debates a stock from bull, bear, quant and sentiment seats and returns one confidence score for a trading desk's 0.70 catalyst gate. Every prediction is written to an experiment ledger and scored against what actually happened. Plugs into any agent via MCP, HTTP or Python. v0.1.1 released. First live test: 12 predictions frozen on Nov 5, 2026, scored against the real market a week later · 35/35 tests passing. | Python · MCP · Multi-agent systems |
+| [Swarm Desk](https://github.com/EdgeAgent/swarm-desk) | A multi-persona research desk: agent seats debate a question from opposing seats, predictions are frozen in an experiment ledger and scored against what actually happened. Paper and simulation only — it researches and keeps score; it does not trade. Plugs into any agent via MCP, HTTP or Python. | Python · MCP · Multi-agent systems |
 | [Battle Court](https://github.com/EdgeAgent/multi-cli-framework) | Multi-CLI agent framework: parallel coding agents work in isolated sandboxes and a Verdict Layer judges the results — winners are staged for human approval, never auto-merged or shipped. 61/61 tests passing. | Python · Agent orchestration · Evaluation |
 | [EVOLVELOOP](https://github.com/EdgeAgent/evoloop-framework) | Self-immune agent framework: failures become antibodies (tests and guards), and the system evolves one human-approved rule change per cycle around an immutable safety core. 38 tests passing. | Python · Agent safety · Testing |
 | [Hermes Caller](https://github.com/EdgeAgent/hermes-caller-framework) | Agent-phone cold-calling framework: scrub/DNC filtering first, approval-gated call packets, scripted outreach and wholesale modes. 65 tests passing. | Python · Voice agents · Compliance gates |
@@ -70,10 +79,15 @@ The work that's actually running, not just built:
 | [Hermes Lead Engine · AgencyLead.ca](https://agencylead.ca) | Production lead pipeline behind AgencyLead.ca: business discovery, dedup and never-contact scrub enforcement, verified outreach sends, and a 50/day governed cap enforced before every send. *(Private client system.)* | Python · Cloudflare · Lead generation |
 | [BrainScan](https://github.com/EdgeAgent/BrainScan) | Auto-scanning second brain: watches your documents, answers with citations, or refuses. *(Private.)* | Python · Qdrant · Docling · FastAPI · RAG |
 | [Clockwork](https://github.com/EdgeAgent/Clockwork) | AI employee framework: clocks in on its own, gathers context, memory and skills, waits for approval, executes, checks, and remembers. *(Private.)* | Python · CLI · SQLite · Agent framework |
-| [Feels Illegal](https://www.youtube.com/@FeelsIllegalMoney) | AI content pipeline and YouTube channel: stick-figure Shorts that break down money plays and name the catch — script, local AI voice, animated scenes, published with full SEO packs. Five Shorts live. | Python · FFmpeg · AI video |
+| [Feels Illegal](https://www.youtube.com/@FeelsIllegalMoney) | AI content pipeline and YouTube channel: stick-figure Shorts that break down money plays and name the catch — script, local AI voice, animated scenes, published with full SEO packs. Three new Shorts daily. | Python · FFmpeg · AI video |
 | [Lead Automation Platform Case Study](https://github.com/EdgeAgent/lead-automation-platform-case-study) | Sanitized case study of event-driven lead capture, payment verification, CRM enrichment, outreach, and operations reporting. | Cloudflare Workers · Python · REST APIs · Webhooks |
 | [GHL Pro MCP](https://github.com/EdgeAgent/ghl-pro-mcp) | MCP server connecting AI tools to GoHighLevel CRM workflows, lead scoring, and analytics. | MCP · APIs · CRM |
 | [API Scout](https://github.com/EdgeAgent/api-scout) | Local-first catalog and CLI for discovering free APIs and free-tier LLM providers. | Developer tooling · APIs · local-first |
+| [PhoneOps](https://github.com/EdgeAgent/kevin-muse-phone-lab) | Local operations console for a fleet of eight phone workers: per-phone screens, app state and task status, Android emulator control via ADB, and isolated per-phone browser sessions — local-first and approval-bounded. | Python · Android/ADB · Ollama |
+| [OpenAvatar](https://github.com/EdgeAgent/OpenAvatar) | Animated avatar framework: pick, describe, or upload a character and it comes alive in a phone-call window — local speech in and out (Whisper + Piper), nothing leaves the machine. | Python · Local AI · Voice |
+| [Pocket Pip](https://github.com/EdgeAgent/pocket-pip) | Desk companion display: a small always-on screen that shows an agent's face, current status, and step progress, driven by a local bridge server. | Python · Hardware displays |
+| [Agent Phone Skill](https://github.com/EdgeAgent/agent-phone-skill) | Gives an AI agent a phone: outbound conversational calls and AI receptionists via Vapi, scripted calls and SMS via Twilio, in-call appointment booking, approval gates, and spend tracking. | Python · Vapi · Twilio |
+| [WiFi Doctor](https://github.com/EdgeAgent/wifi-doctor) | Read-only Wi-Fi diagnostics CLI: two gated prompts, standard library only, safe to hand to support staff. 22/22 tests passing. | Python · CLI · Networking |
 
 
 ## Project gallery
